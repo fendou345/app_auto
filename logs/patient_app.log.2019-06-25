@@ -1,0 +1,806 @@
+INFO: 06-24 10:59:34: operateElement.py:46 * 26348 找不到数据
+INFO: 06-24 11:01:57: operateElement.py:46 * 33364 找不到数据
+INFO: 06-24 11:23:03: operateElement.py:46 * 28948 找不到数据
+INFO: 06-24 11:46:31: operateElement.py:96 * 29772 The element '<appium.webdriver.webelement.WebElement (session="769d375a-0be9-4aba-805e-9d5bafffb271", element="1")>' was clicked
+INFO: 06-24 12:00:09: operateElement.py:96 * 7900 The element '<appium.webdriver.webelement.WebElement (session="2493d58b-62f3-4c40-bd03-3e199043fae8", element="1")>' was clicked
+INFO: 06-24 12:01:17: operateElement.py:96 * 27256 The element '<appium.webdriver.webelement.WebElement (session="e0bc1428-1df7-43d8-bf95-a98f2aa7a407", element="1")>' was clicked
+INFO: 06-24 12:01:36: operateElement.py:96 * 2768 The element '<appium.webdriver.webelement.WebElement (session="bd8f1a81-fa54-4fd6-a919-d6cd58c276fa", element="1")>' was clicked
+INFO: 06-24 12:02:24: operateElement.py:96 * 20576 The element '<appium.webdriver.webelement.WebElement (session="23daff24-aee1-4433-801f-c45338ffba1f", element="1")>' was clicked
+INFO: 06-24 12:05:10: operateElement.py:96 * 40776 The element '<appium.webdriver.webelement.WebElement (session="d96ce411-222c-4ab9-b140-b5af4777596d", element="1")>' was clicked
+INFO: 06-24 12:06:39: operateElement.py:96 * 29440 The element '<appium.webdriver.webelement.WebElement (session="74024838-1b08-4e18-855f-d4010bf711ed", element="1")>' was clicked
+INFO: 06-24 12:09:04: operateElement.py:96 * 47660 The element '<appium.webdriver.webelement.WebElement (session="25317903-21fb-4b7d-b5c9-468df45d660c", element="1")>' was clicked
+INFO: 06-24 12:09:05: operateElement.py:96 * 47660 The element '<appium.webdriver.webelement.WebElement (session="25317903-21fb-4b7d-b5c9-468df45d660c", element="2")>' was clicked
+INFO: 06-24 12:09:06: operateElement.py:96 * 47660 The element '<appium.webdriver.webelement.WebElement (session="25317903-21fb-4b7d-b5c9-468df45d660c", element="3")>' was clicked
+INFO: 06-24 12:09:07: operateElement.py:96 * 47660 The element '<appium.webdriver.webelement.WebElement (session="25317903-21fb-4b7d-b5c9-468df45d660c", element="4")>' was clicked
+INFO: 06-24 12:13:08: operateElement.py:96 * 19424 The element '<appium.webdriver.webelement.WebElement (session="77dd6215-2369-4ac0-82ef-e0ba87976af4", element="1")>' was clicked
+INFO: 06-24 12:13:09: operateElement.py:96 * 19424 The element '<appium.webdriver.webelement.WebElement (session="77dd6215-2369-4ac0-82ef-e0ba87976af4", element="2")>' was clicked
+INFO: 06-24 12:13:10: operateElement.py:96 * 19424 The element '<appium.webdriver.webelement.WebElement (session="77dd6215-2369-4ac0-82ef-e0ba87976af4", element="3")>' was clicked
+INFO: 06-24 12:13:11: operateElement.py:96 * 19424 The element '<appium.webdriver.webelement.WebElement (session="77dd6215-2369-4ac0-82ef-e0ba87976af4", element="4")>' was clicked
+INFO: 06-24 12:14:04: operateElement.py:96 * 8160 The element '<appium.webdriver.webelement.WebElement (session="dae1844a-d7ee-4743-b16f-97ae7c48962c", element="1")>' was clicked
+INFO: 06-24 12:14:05: operateElement.py:96 * 8160 The element '<appium.webdriver.webelement.WebElement (session="dae1844a-d7ee-4743-b16f-97ae7c48962c", element="2")>' was clicked
+INFO: 06-24 12:14:06: operateElement.py:96 * 8160 The element '<appium.webdriver.webelement.WebElement (session="dae1844a-d7ee-4743-b16f-97ae7c48962c", element="3")>' was clicked
+INFO: 06-24 12:14:07: operateElement.py:96 * 8160 The element '<appium.webdriver.webelement.WebElement (session="dae1844a-d7ee-4743-b16f-97ae7c48962c", element="4")>' was clicked
+INFO: 06-24 12:21:20: operateElement.py:96 * 44964 The element '<appium.webdriver.webelement.WebElement (session="80a2e46e-d6d7-4768-b726-8f523f918037", element="1")>' was clicked
+INFO: 06-24 12:21:21: operateElement.py:96 * 44964 The element '<appium.webdriver.webelement.WebElement (session="80a2e46e-d6d7-4768-b726-8f523f918037", element="2")>' was clicked
+INFO: 06-24 12:21:22: operateElement.py:96 * 44964 The element '<appium.webdriver.webelement.WebElement (session="80a2e46e-d6d7-4768-b726-8f523f918037", element="3")>' was clicked
+INFO: 06-24 12:21:23: operateElement.py:96 * 44964 The element '<appium.webdriver.webelement.WebElement (session="80a2e46e-d6d7-4768-b726-8f523f918037", element="4")>' was clicked
+INFO: 06-24 12:25:56: operateElement.py:96 * 37916 The element '<appium.webdriver.webelement.WebElement (session="aa1cabb3-5abb-4507-a9aa-028e60443a3b", element="1")>' was clicked
+INFO: 06-24 12:25:57: operateElement.py:96 * 37916 The element '<appium.webdriver.webelement.WebElement (session="aa1cabb3-5abb-4507-a9aa-028e60443a3b", element="2")>' was clicked
+INFO: 06-24 12:25:58: operateElement.py:96 * 37916 The element '<appium.webdriver.webelement.WebElement (session="aa1cabb3-5abb-4507-a9aa-028e60443a3b", element="3")>' was clicked
+INFO: 06-24 12:26:00: operateElement.py:96 * 37916 The element '<appium.webdriver.webelement.WebElement (session="aa1cabb3-5abb-4507-a9aa-028e60443a3b", element="4")>' was clicked
+INFO: 06-24 12:27:25: operateElement.py:96 * 42000 The element '<appium.webdriver.webelement.WebElement (session="eb08d924-27d7-4cf0-9d87-a31a0ef39956", element="1")>' was clicked
+INFO: 06-24 12:27:26: operateElement.py:96 * 42000 The element '<appium.webdriver.webelement.WebElement (session="eb08d924-27d7-4cf0-9d87-a31a0ef39956", element="2")>' was clicked
+INFO: 06-24 12:27:27: operateElement.py:96 * 42000 The element '<appium.webdriver.webelement.WebElement (session="eb08d924-27d7-4cf0-9d87-a31a0ef39956", element="3")>' was clicked
+INFO: 06-24 12:27:28: operateElement.py:96 * 42000 The element '<appium.webdriver.webelement.WebElement (session="eb08d924-27d7-4cf0-9d87-a31a0ef39956", element="4")>' was clicked
+INFO: 06-24 12:28:49: operateElement.py:96 * 18920 The element '<appium.webdriver.webelement.WebElement (session="356dea61-fe0d-4d10-a215-57a32c5ebcef", element="1")>' was clicked
+INFO: 06-24 12:28:50: operateElement.py:96 * 18920 The element '<appium.webdriver.webelement.WebElement (session="356dea61-fe0d-4d10-a215-57a32c5ebcef", element="2")>' was clicked
+INFO: 06-24 12:28:51: operateElement.py:96 * 18920 The element '<appium.webdriver.webelement.WebElement (session="356dea61-fe0d-4d10-a215-57a32c5ebcef", element="3")>' was clicked
+INFO: 06-24 12:28:52: operateElement.py:96 * 18920 The element '<appium.webdriver.webelement.WebElement (session="356dea61-fe0d-4d10-a215-57a32c5ebcef", element="4")>' was clicked
+INFO: 06-24 12:29:02: operateElement.py:111 * 18920 Had type '074' in inputbox
+INFO: 06-24 18:24:06: operateElement.py:97 * 37968 The element '<appium.webdriver.webelement.WebElement (session="a8399e23-6a8b-4c68-b271-4efb8177a030", element="1")>' was clicked
+INFO: 06-24 18:24:07: operateElement.py:97 * 37968 The element '<appium.webdriver.webelement.WebElement (session="a8399e23-6a8b-4c68-b271-4efb8177a030", element="2")>' was clicked
+INFO: 06-24 18:24:08: operateElement.py:97 * 37968 The element '<appium.webdriver.webelement.WebElement (session="a8399e23-6a8b-4c68-b271-4efb8177a030", element="3")>' was clicked
+INFO: 06-24 18:24:09: operateElement.py:97 * 37968 The element '<appium.webdriver.webelement.WebElement (session="a8399e23-6a8b-4c68-b271-4efb8177a030", element="4")>' was clicked
+INFO: 06-24 18:24:19: operateElement.py:112 * 37968 Had type '685' in inputbox
+INFO: 06-24 18:25:20: operateElement.py:97 * 36664 The element '<appium.webdriver.webelement.WebElement (session="469423fd-5b30-42e6-aa3f-c2e88eed70f0", element="1")>' was clicked
+INFO: 06-24 18:25:21: operateElement.py:97 * 36664 The element '<appium.webdriver.webelement.WebElement (session="469423fd-5b30-42e6-aa3f-c2e88eed70f0", element="2")>' was clicked
+INFO: 06-24 18:25:22: operateElement.py:97 * 36664 The element '<appium.webdriver.webelement.WebElement (session="469423fd-5b30-42e6-aa3f-c2e88eed70f0", element="3")>' was clicked
+INFO: 06-24 18:25:23: operateElement.py:97 * 36664 The element '<appium.webdriver.webelement.WebElement (session="469423fd-5b30-42e6-aa3f-c2e88eed70f0", element="4")>' was clicked
+INFO: 06-24 18:25:33: operateElement.py:112 * 36664 Had type '851' in inputbox
+INFO: 06-24 18:25:33: operateElement.py:97 * 36664 The element '<appium.webdriver.webelement.WebElement (session="469423fd-5b30-42e6-aa3f-c2e88eed70f0", element="6")>' was clicked
+INFO: 06-24 18:26:51: operateElement.py:97 * 42796 The element '<appium.webdriver.webelement.WebElement (session="342284a6-23da-40a6-ae1c-c71ad283c0ea", element="1")>' was clicked
+INFO: 06-24 18:26:52: operateElement.py:97 * 42796 The element '<appium.webdriver.webelement.WebElement (session="342284a6-23da-40a6-ae1c-c71ad283c0ea", element="2")>' was clicked
+INFO: 06-24 18:26:53: operateElement.py:97 * 42796 The element '<appium.webdriver.webelement.WebElement (session="342284a6-23da-40a6-ae1c-c71ad283c0ea", element="3")>' was clicked
+INFO: 06-24 18:26:54: operateElement.py:97 * 42796 The element '<appium.webdriver.webelement.WebElement (session="342284a6-23da-40a6-ae1c-c71ad283c0ea", element="4")>' was clicked
+INFO: 06-24 18:27:04: operateElement.py:112 * 42796 Had type '071' in inputbox
+INFO: 06-24 18:27:04: operateElement.py:97 * 42796 The element '<appium.webdriver.webelement.WebElement (session="342284a6-23da-40a6-ae1c-c71ad283c0ea", element="6")>' was clicked
+INFO: 06-24 18:27:05: operateElement.py:123 * 42796 获取'<appium.webdriver.webelement.WebElement (session="342284a6-23da-40a6-ae1c-c71ad283c0ea", element="7")>'的text
+INFO: 06-24 18:29:12: operateElement.py:97 * 48004 The element '<appium.webdriver.webelement.WebElement (session="f40fe4f3-3b60-4aa7-80f9-7c4b40129b85", element="1")>' was clicked
+INFO: 06-24 18:29:13: operateElement.py:97 * 48004 The element '<appium.webdriver.webelement.WebElement (session="f40fe4f3-3b60-4aa7-80f9-7c4b40129b85", element="2")>' was clicked
+INFO: 06-24 18:29:14: operateElement.py:97 * 48004 The element '<appium.webdriver.webelement.WebElement (session="f40fe4f3-3b60-4aa7-80f9-7c4b40129b85", element="3")>' was clicked
+INFO: 06-24 18:29:15: operateElement.py:97 * 48004 The element '<appium.webdriver.webelement.WebElement (session="f40fe4f3-3b60-4aa7-80f9-7c4b40129b85", element="4")>' was clicked
+INFO: 06-24 18:29:25: operateElement.py:112 * 48004 Had type '432' in inputbox
+INFO: 06-24 18:29:25: operateElement.py:97 * 48004 The element '<appium.webdriver.webelement.WebElement (session="f40fe4f3-3b60-4aa7-80f9-7c4b40129b85", element="6")>' was clicked
+INFO: 06-24 18:29:26: operateElement.py:123 * 48004 获取'<appium.webdriver.webelement.WebElement (session="f40fe4f3-3b60-4aa7-80f9-7c4b40129b85", element="7")>'的text
+INFO: 06-24 18:30:07: operateElement.py:97 * 15164 The element '<appium.webdriver.webelement.WebElement (session="63824230-229c-4796-a689-b58535a81cfc", element="1")>' was clicked
+INFO: 06-24 18:30:08: operateElement.py:97 * 15164 The element '<appium.webdriver.webelement.WebElement (session="63824230-229c-4796-a689-b58535a81cfc", element="2")>' was clicked
+INFO: 06-24 18:30:09: operateElement.py:97 * 15164 The element '<appium.webdriver.webelement.WebElement (session="63824230-229c-4796-a689-b58535a81cfc", element="3")>' was clicked
+INFO: 06-24 18:30:10: operateElement.py:97 * 15164 The element '<appium.webdriver.webelement.WebElement (session="63824230-229c-4796-a689-b58535a81cfc", element="4")>' was clicked
+INFO: 06-24 18:30:20: operateElement.py:112 * 15164 Had type '416' in inputbox
+INFO: 06-24 18:30:20: operateElement.py:97 * 15164 The element '<appium.webdriver.webelement.WebElement (session="63824230-229c-4796-a689-b58535a81cfc", element="6")>' was clicked
+INFO: 06-24 18:30:21: operateElement.py:123 * 15164 获取'<appium.webdriver.webelement.WebElement (session="63824230-229c-4796-a689-b58535a81cfc", element="7")>'的text
+INFO: 06-24 18:30:22: operateElement.py:170 * 15164 APP关闭
+INFO: 06-24 18:31:22: operateElement.py:97 * 26976 The element '<appium.webdriver.webelement.WebElement (session="b0762858-2b97-4c89-8e3c-d89075a11854", element="1")>' was clicked
+INFO: 06-24 18:31:23: operateElement.py:97 * 26976 The element '<appium.webdriver.webelement.WebElement (session="b0762858-2b97-4c89-8e3c-d89075a11854", element="2")>' was clicked
+INFO: 06-24 18:31:24: operateElement.py:97 * 26976 The element '<appium.webdriver.webelement.WebElement (session="b0762858-2b97-4c89-8e3c-d89075a11854", element="3")>' was clicked
+INFO: 06-24 18:31:25: operateElement.py:97 * 26976 The element '<appium.webdriver.webelement.WebElement (session="b0762858-2b97-4c89-8e3c-d89075a11854", element="4")>' was clicked
+INFO: 06-24 18:31:34: operateElement.py:112 * 26976 Had type '263' in inputbox
+INFO: 06-24 18:31:35: operateElement.py:97 * 26976 The element '<appium.webdriver.webelement.WebElement (session="b0762858-2b97-4c89-8e3c-d89075a11854", element="6")>' was clicked
+INFO: 06-24 18:32:23: operateElement.py:123 * 26976 获取'<appium.webdriver.webelement.WebElement (session="b0762858-2b97-4c89-8e3c-d89075a11854", element="7")>'的text
+INFO: 06-24 18:34:45: operateElement.py:97 * 27864 The element '<appium.webdriver.webelement.WebElement (session="d6e5d2e9-0a6d-490c-81da-b29f9617bc43", element="1")>' was clicked
+INFO: 06-24 18:34:46: operateElement.py:97 * 27864 The element '<appium.webdriver.webelement.WebElement (session="d6e5d2e9-0a6d-490c-81da-b29f9617bc43", element="2")>' was clicked
+INFO: 06-24 18:34:47: operateElement.py:97 * 27864 The element '<appium.webdriver.webelement.WebElement (session="d6e5d2e9-0a6d-490c-81da-b29f9617bc43", element="3")>' was clicked
+INFO: 06-24 18:34:48: operateElement.py:97 * 27864 The element '<appium.webdriver.webelement.WebElement (session="d6e5d2e9-0a6d-490c-81da-b29f9617bc43", element="4")>' was clicked
+INFO: 06-24 18:34:58: operateElement.py:112 * 27864 Had type '837' in inputbox
+INFO: 06-24 18:34:58: operateElement.py:97 * 27864 The element '<appium.webdriver.webelement.WebElement (session="d6e5d2e9-0a6d-490c-81da-b29f9617bc43", element="6")>' was clicked
+INFO: 06-24 18:35:41: operateElement.py:123 * 27864 获取'<appium.webdriver.webelement.WebElement (session="d6e5d2e9-0a6d-490c-81da-b29f9617bc43", element="7")>'的text
+INFO: 06-24 18:36:27: operateElement.py:97 * 16548 The element '<appium.webdriver.webelement.WebElement (session="cfa29432-a3d3-40f6-a2e0-5d5490ea7206", element="1")>' was clicked
+INFO: 06-24 18:36:28: operateElement.py:97 * 16548 The element '<appium.webdriver.webelement.WebElement (session="cfa29432-a3d3-40f6-a2e0-5d5490ea7206", element="2")>' was clicked
+INFO: 06-24 18:36:29: operateElement.py:97 * 16548 The element '<appium.webdriver.webelement.WebElement (session="cfa29432-a3d3-40f6-a2e0-5d5490ea7206", element="3")>' was clicked
+INFO: 06-24 18:36:30: operateElement.py:97 * 16548 The element '<appium.webdriver.webelement.WebElement (session="cfa29432-a3d3-40f6-a2e0-5d5490ea7206", element="4")>' was clicked
+INFO: 06-24 18:36:39: operateElement.py:112 * 16548 Had type '305' in inputbox
+INFO: 06-24 18:36:40: operateElement.py:97 * 16548 The element '<appium.webdriver.webelement.WebElement (session="cfa29432-a3d3-40f6-a2e0-5d5490ea7206", element="6")>' was clicked
+INFO: 06-24 18:36:41: operateElement.py:123 * 16548 获取'<appium.webdriver.webelement.WebElement (session="cfa29432-a3d3-40f6-a2e0-5d5490ea7206", element="7")>'的text
+INFO: 06-24 18:36:42: operateElement.py:170 * 16548 APP关闭
+INFO: 06-24 18:43:45: operateElement.py:97 * 40588 The element '<appium.webdriver.webelement.WebElement (session="357ce47d-25fd-4b8d-8c3c-b0e9a9c5c970", element="f2cf9391-74f5-4775-8583-693d93c99792")>' was clicked
+INFO: 06-24 18:43:46: operateElement.py:97 * 40588 The element '<appium.webdriver.webelement.WebElement (session="357ce47d-25fd-4b8d-8c3c-b0e9a9c5c970", element="51601d38-f86a-4c96-97a1-3531a44e12e7")>' was clicked
+INFO: 06-24 18:43:47: operateElement.py:97 * 40588 The element '<appium.webdriver.webelement.WebElement (session="357ce47d-25fd-4b8d-8c3c-b0e9a9c5c970", element="a4d2eb0f-8a38-45f0-b501-12717e229780")>' was clicked
+INFO: 06-24 18:43:49: operateElement.py:97 * 40588 The element '<appium.webdriver.webelement.WebElement (session="357ce47d-25fd-4b8d-8c3c-b0e9a9c5c970", element="9df3bc13-f302-45f3-b625-fa38e5258ba2")>' was clicked
+INFO: 06-24 18:43:50: operateElement.py:112 * 40588 Had type '930' in inputbox
+INFO: 06-24 18:43:51: operateElement.py:97 * 40588 The element '<appium.webdriver.webelement.WebElement (session="357ce47d-25fd-4b8d-8c3c-b0e9a9c5c970", element="22249f9f-21cd-45f3-bcfa-87fc07e59a05")>' was clicked
+INFO: 06-24 18:43:51: operateElement.py:123 * 40588 获取'<appium.webdriver.webelement.WebElement (session="357ce47d-25fd-4b8d-8c3c-b0e9a9c5c970", element="c8f4f232-8641-4428-99dd-d5a2b27fd954")>'的text
+INFO: 06-24 18:43:52: operateElement.py:170 * 40588 APP关闭
+INFO: 06-24 20:22:25: operateElement.py:97 * 44396 The element '<appium.webdriver.webelement.WebElement (session="850ef586-c645-485e-94a1-a5681a89b70f", element="e1dc9d12-a9b0-426b-aa8d-84aaf5717228")>' was clicked
+INFO: 06-24 20:22:27: operateElement.py:97 * 44396 The element '<appium.webdriver.webelement.WebElement (session="850ef586-c645-485e-94a1-a5681a89b70f", element="19e5d022-f561-4697-bcfc-971cf8baf2e6")>' was clicked
+INFO: 06-24 20:22:28: operateElement.py:97 * 44396 The element '<appium.webdriver.webelement.WebElement (session="850ef586-c645-485e-94a1-a5681a89b70f", element="08d86003-4010-42b5-978b-06f585060ce8")>' was clicked
+INFO: 06-24 20:22:29: operateElement.py:97 * 44396 The element '<appium.webdriver.webelement.WebElement (session="850ef586-c645-485e-94a1-a5681a89b70f", element="771dbae8-a483-4adb-aeed-d3c3cd48ae49")>' was clicked
+INFO: 06-24 20:22:30: operateElement.py:112 * 44396 Had type '514' in inputbox
+INFO: 06-24 20:22:32: operateElement.py:97 * 44396 The element '<appium.webdriver.webelement.WebElement (session="850ef586-c645-485e-94a1-a5681a89b70f", element="77f22064-903c-41ba-a4b7-e08dc8715908")>' was clicked
+INFO: 06-24 20:22:32: operateElement.py:123 * 44396 获取'<appium.webdriver.webelement.WebElement (session="850ef586-c645-485e-94a1-a5681a89b70f", element="e4b76e91-568d-4b72-9c30-b22b083c5d1e")>'的text
+INFO: 06-24 20:22:33: operateElement.py:170 * 44396 APP关闭
+INFO: 06-24 20:25:17: operateElement.py:97 * 41160 The element '<appium.webdriver.webelement.WebElement (session="41fdfc21-442a-4fa5-bb6e-f6f2eabb1757", element="317544ca-8ae8-48e0-9ebd-0c037a794679")>' was clicked
+INFO: 06-24 20:25:18: operateElement.py:97 * 41160 The element '<appium.webdriver.webelement.WebElement (session="41fdfc21-442a-4fa5-bb6e-f6f2eabb1757", element="83699ca5-3485-4e59-8161-a13d4bf154ee")>' was clicked
+INFO: 06-24 20:25:19: operateElement.py:97 * 41160 The element '<appium.webdriver.webelement.WebElement (session="41fdfc21-442a-4fa5-bb6e-f6f2eabb1757", element="afb4bd53-3f51-4758-adce-967f576b5810")>' was clicked
+INFO: 06-24 20:25:20: operateElement.py:97 * 41160 The element '<appium.webdriver.webelement.WebElement (session="41fdfc21-442a-4fa5-bb6e-f6f2eabb1757", element="d0c1bd8a-d7bd-4d9c-a2aa-c46f528f31e3")>' was clicked
+INFO: 06-24 20:25:21: operateElement.py:112 * 41160 Had type '973' in inputbox
+INFO: 06-24 20:25:23: operateElement.py:97 * 41160 The element '<appium.webdriver.webelement.WebElement (session="41fdfc21-442a-4fa5-bb6e-f6f2eabb1757", element="6ab6eda8-8280-489e-a2ce-fb3ab76a4854")>' was clicked
+INFO: 06-24 20:27:13: operateElement.py:123 * 41160 获取'<appium.webdriver.webelement.WebElement (session="41fdfc21-442a-4fa5-bb6e-f6f2eabb1757", element="9933aff1-2ded-4471-8345-da8ae7647104")>'的text
+INFO: 06-24 20:28:40: operateElement.py:170 * 41160 APP关闭
+INFO: 06-24 20:30:26: operateElement.py:97 * 27680 The element '<appium.webdriver.webelement.WebElement (session="3a91c1dc-b583-45cf-9050-f5834432e400", element="83563143-3e55-439d-931c-a1324020254f")>' was clicked
+INFO: 06-24 20:30:27: operateElement.py:97 * 27680 The element '<appium.webdriver.webelement.WebElement (session="3a91c1dc-b583-45cf-9050-f5834432e400", element="b41a801f-2ce3-468c-b926-9cc0a98efe32")>' was clicked
+INFO: 06-24 20:30:28: operateElement.py:97 * 27680 The element '<appium.webdriver.webelement.WebElement (session="3a91c1dc-b583-45cf-9050-f5834432e400", element="5732e1a9-b8d4-4aa2-894b-ed83476b575c")>' was clicked
+INFO: 06-24 20:30:29: operateElement.py:97 * 27680 The element '<appium.webdriver.webelement.WebElement (session="3a91c1dc-b583-45cf-9050-f5834432e400", element="354ee46f-8645-4944-aa3d-346bb298ddd1")>' was clicked
+INFO: 06-24 20:30:31: operateElement.py:112 * 27680 Had type '058' in inputbox
+INFO: 06-24 20:30:32: operateElement.py:97 * 27680 The element '<appium.webdriver.webelement.WebElement (session="3a91c1dc-b583-45cf-9050-f5834432e400", element="53c88b38-34ca-465a-b18a-12219ecbca9d")>' was clicked
+INFO: 06-24 20:30:32: operateElement.py:123 * 27680 获取'<appium.webdriver.webelement.WebElement (session="3a91c1dc-b583-45cf-9050-f5834432e400", element="1b31c0b0-c447-4b71-ac07-2650df1525c0")>'的text
+INFO: 06-24 20:31:58: operateElement.py:97 * 34120 The element '<appium.webdriver.webelement.WebElement (session="8a4529a0-9e19-4a0a-9b5a-3a474aa5805e", element="5b6c9e33-b1bf-49bf-9819-f0fe8c904afd")>' was clicked
+INFO: 06-24 20:31:59: operateElement.py:97 * 34120 The element '<appium.webdriver.webelement.WebElement (session="8a4529a0-9e19-4a0a-9b5a-3a474aa5805e", element="e1ebbaac-6edc-4f37-9595-2f8ed0238841")>' was clicked
+INFO: 06-24 20:32:00: operateElement.py:97 * 34120 The element '<appium.webdriver.webelement.WebElement (session="8a4529a0-9e19-4a0a-9b5a-3a474aa5805e", element="30e3169f-586a-47cb-b07f-d43e4ee358ea")>' was clicked
+INFO: 06-24 20:32:02: operateElement.py:97 * 34120 The element '<appium.webdriver.webelement.WebElement (session="8a4529a0-9e19-4a0a-9b5a-3a474aa5805e", element="bd4b105b-635a-4e2d-9d3e-b0ff74f450f0")>' was clicked
+INFO: 06-24 20:32:03: operateElement.py:112 * 34120 Had type '145' in inputbox
+INFO: 06-24 20:32:05: operateElement.py:97 * 34120 The element '<appium.webdriver.webelement.WebElement (session="8a4529a0-9e19-4a0a-9b5a-3a474aa5805e", element="10b20bc5-5b50-433f-87c1-4117674b01e8")>' was clicked
+INFO: 06-24 20:32:05: operateElement.py:123 * 34120 获取'<appium.webdriver.webelement.WebElement (session="8a4529a0-9e19-4a0a-9b5a-3a474aa5805e", element="9f3b57c7-d4f5-426f-9f84-ca2ba3ff6bff")>'的text
+INFO: 06-24 20:32:06: operateElement.py:171 * 34120 APP关闭
+INFO: 06-24 20:32:57: operateElement.py:97 * 2036 The element '<appium.webdriver.webelement.WebElement (session="72126436-1447-474b-9a81-b4c8ba72558d", element="b89f44a4-52f0-4c53-b246-a9ae5dd7dba9")>' was clicked
+INFO: 06-24 20:32:58: operateElement.py:97 * 2036 The element '<appium.webdriver.webelement.WebElement (session="72126436-1447-474b-9a81-b4c8ba72558d", element="d9b57531-bb47-4aee-922d-aa6e0837f1fb")>' was clicked
+INFO: 06-24 20:32:59: operateElement.py:97 * 2036 The element '<appium.webdriver.webelement.WebElement (session="72126436-1447-474b-9a81-b4c8ba72558d", element="b8b72e20-7a3d-49d0-9e6a-e4d670762ff2")>' was clicked
+INFO: 06-24 20:33:00: operateElement.py:97 * 2036 The element '<appium.webdriver.webelement.WebElement (session="72126436-1447-474b-9a81-b4c8ba72558d", element="9f1d50b5-c43f-40c6-83aa-570158b2b16a")>' was clicked
+INFO: 06-24 20:33:02: operateElement.py:112 * 2036 Had type '849' in inputbox
+INFO: 06-24 20:33:04: operateElement.py:97 * 2036 The element '<appium.webdriver.webelement.WebElement (session="72126436-1447-474b-9a81-b4c8ba72558d", element="59c6ef01-fda8-4d62-843f-9f135a6c5d1a")>' was clicked
+INFO: 06-24 20:33:04: operateElement.py:123 * 2036 获取'<appium.webdriver.webelement.WebElement (session="72126436-1447-474b-9a81-b4c8ba72558d", element="582d5493-b450-4e0c-98fe-dce5b80bb293")>'的text
+INFO: 06-24 20:33:05: operateElement.py:171 * 2036 APP关闭
+INFO: 06-24 20:56:06: operateElement.py:170 * 45680 APP关闭
+INFO: 06-24 20:57:44: operateElement.py:170 * 26692 APP关闭
+INFO: 06-24 20:59:29: operateElement.py:170 * 4668 APP关闭
+INFO: 06-24 21:00:17: operateElement.py:97 * 26960 The element '<appium.webdriver.webelement.WebElement (session="bad7afb8-c3c6-40e3-920a-396f65645329", element="b8e1d121-5e5a-494d-badb-f938624b49b9")>' was clicked
+INFO: 06-24 21:00:18: operateElement.py:97 * 26960 The element '<appium.webdriver.webelement.WebElement (session="bad7afb8-c3c6-40e3-920a-396f65645329", element="a39549c2-0e5c-487e-a88b-f60a14ed6f69")>' was clicked
+INFO: 06-24 21:00:19: operateElement.py:97 * 26960 The element '<appium.webdriver.webelement.WebElement (session="bad7afb8-c3c6-40e3-920a-396f65645329", element="0ee2c901-db9f-41ff-b887-b76ab3d4a87f")>' was clicked
+INFO: 06-24 21:00:20: operateElement.py:97 * 26960 The element '<appium.webdriver.webelement.WebElement (session="bad7afb8-c3c6-40e3-920a-396f65645329", element="8e604ce5-6a92-4953-9cd1-0b73da20438d")>' was clicked
+INFO: 06-24 21:00:21: operateElement.py:170 * 26960 APP关闭
+INFO: 06-24 21:02:32: operateElement.py:170 * 43092 APP关闭
+INFO: 06-24 21:03:38: operateElement.py:170 * 27452 APP关闭
+INFO: 06-25 09:46:40: operateElement.py:97 * 21080 The element '<appium.webdriver.webelement.WebElement (session="7c68d91c-83c6-4ebf-b04d-d9f21618ba1e", element="26da47b1-ec2f-4b89-b25b-7bf4cb94d509")>' was clicked
+INFO: 06-25 09:46:42: operateElement.py:97 * 21080 The element '<appium.webdriver.webelement.WebElement (session="7c68d91c-83c6-4ebf-b04d-d9f21618ba1e", element="efff477d-dd07-4643-9d05-6dcd94c05c10")>' was clicked
+INFO: 06-25 09:46:43: operateElement.py:97 * 21080 The element '<appium.webdriver.webelement.WebElement (session="7c68d91c-83c6-4ebf-b04d-d9f21618ba1e", element="20540646-d897-4647-8cad-f7b2b7b50fcf")>' was clicked
+INFO: 06-25 09:46:44: operateElement.py:97 * 21080 The element '<appium.webdriver.webelement.WebElement (session="7c68d91c-83c6-4ebf-b04d-d9f21618ba1e", element="1d3f0aea-e469-400f-919e-c8eca3f40d7e")>' was clicked
+INFO: 06-25 09:46:45: operateElement.py:112 * 21080 Had type '@test1' in inputbox
+INFO: 06-25 09:46:47: operateElement.py:97 * 21080 The element '<appium.webdriver.webelement.WebElement (session="7c68d91c-83c6-4ebf-b04d-d9f21618ba1e", element="b9edb278-2952-4108-a4f6-b502fe6f5a81")>' was clicked
+INFO: 06-25 09:46:47: operateElement.py:123 * 21080 获取'<appium.webdriver.webelement.WebElement (session="7c68d91c-83c6-4ebf-b04d-d9f21618ba1e", element="1806a881-0295-4dc4-909f-353147e8f386")>'的text
+INFO: 06-25 09:46:48: operateElement.py:170 * 21080 APP关闭
+INFO: 06-25 09:48:11: operateElement.py:97 * 23444 The element '<appium.webdriver.webelement.WebElement (session="f88da5ee-60c2-4e4f-99e8-c9a6d9288c90", element="f327cedc-3a56-4e4c-a70e-afb4e6825808")>' was clicked
+INFO: 06-25 09:48:12: operateElement.py:97 * 23444 The element '<appium.webdriver.webelement.WebElement (session="f88da5ee-60c2-4e4f-99e8-c9a6d9288c90", element="93a31798-4b07-4308-b1bb-f6c94407cf66")>' was clicked
+INFO: 06-25 09:48:14: operateElement.py:97 * 23444 The element '<appium.webdriver.webelement.WebElement (session="f88da5ee-60c2-4e4f-99e8-c9a6d9288c90", element="df80d229-278b-4698-b579-4e7f26ea95d2")>' was clicked
+INFO: 06-25 09:48:15: operateElement.py:97 * 23444 The element '<appium.webdriver.webelement.WebElement (session="f88da5ee-60c2-4e4f-99e8-c9a6d9288c90", element="67d26b5e-008a-48c2-b1c5-6dfb688448f8")>' was clicked
+INFO: 06-25 09:48:16: operateElement.py:112 * 23444 Had type 'test1' in inputbox
+INFO: 06-25 09:48:18: operateElement.py:97 * 23444 The element '<appium.webdriver.webelement.WebElement (session="f88da5ee-60c2-4e4f-99e8-c9a6d9288c90", element="6435c9f8-6972-452b-b6cd-0cc7f9e42152")>' was clicked
+INFO: 06-25 09:48:18: operateElement.py:123 * 23444 获取'<appium.webdriver.webelement.WebElement (session="f88da5ee-60c2-4e4f-99e8-c9a6d9288c90", element="2b441999-cbeb-41f1-83e2-5d747b00f532")>'的text
+INFO: 06-25 09:48:19: operateElement.py:170 * 23444 APP关闭
+INFO: 06-25 09:48:39: operateElement.py:97 * 23444 The element '<appium.webdriver.webelement.WebElement (session="0b6cff6c-7fac-4701-8c78-56f54f42911e", element="7df60006-4dd4-4323-b873-a96f22c6b360")>' was clicked
+INFO: 06-25 09:48:40: operateElement.py:97 * 23444 The element '<appium.webdriver.webelement.WebElement (session="0b6cff6c-7fac-4701-8c78-56f54f42911e", element="deb10547-ee61-4d4a-88aa-31aef83ec4ed")>' was clicked
+INFO: 06-25 09:48:41: operateElement.py:97 * 23444 The element '<appium.webdriver.webelement.WebElement (session="0b6cff6c-7fac-4701-8c78-56f54f42911e", element="2b59d220-a05c-40ee-b9ac-3c9dd94ad2fd")>' was clicked
+INFO: 06-25 09:48:42: operateElement.py:97 * 23444 The element '<appium.webdriver.webelement.WebElement (session="0b6cff6c-7fac-4701-8c78-56f54f42911e", element="467fb32a-591c-4a45-93de-dc2be3d5f62d")>' was clicked
+INFO: 06-25 09:48:43: operateElement.py:112 * 23444 Had type '@test1' in inputbox
+INFO: 06-25 09:48:45: operateElement.py:97 * 23444 The element '<appium.webdriver.webelement.WebElement (session="0b6cff6c-7fac-4701-8c78-56f54f42911e", element="e21ce11b-db03-4a39-9486-b75b93a819c7")>' was clicked
+INFO: 06-25 09:48:45: operateElement.py:123 * 23444 获取'<appium.webdriver.webelement.WebElement (session="0b6cff6c-7fac-4701-8c78-56f54f42911e", element="5cc9e9a0-754b-4bc7-9f1f-d84aeaaa388a")>'的text
+INFO: 06-25 09:48:46: operateElement.py:170 * 23444 APP关闭
+INFO: 06-25 10:00:50: operateElement.py:97 * 43364 The element '<appium.webdriver.webelement.WebElement (session="7d03f65e-06e4-4ebd-9460-77576d299fcb", element="2d8fc504-4206-4ed2-be02-94439de8705a")>' was clicked
+INFO: 06-25 10:00:51: operateElement.py:97 * 43364 The element '<appium.webdriver.webelement.WebElement (session="7d03f65e-06e4-4ebd-9460-77576d299fcb", element="13c77858-7d53-43cf-b2f0-1b6c6c53c636")>' was clicked
+INFO: 06-25 10:00:52: operateElement.py:97 * 43364 The element '<appium.webdriver.webelement.WebElement (session="7d03f65e-06e4-4ebd-9460-77576d299fcb", element="988e9faa-5e95-48a6-8fa1-d94960283df2")>' was clicked
+INFO: 06-25 10:00:54: operateElement.py:97 * 43364 The element '<appium.webdriver.webelement.WebElement (session="7d03f65e-06e4-4ebd-9460-77576d299fcb", element="0dad030b-2297-4842-841c-e0812105614a")>' was clicked
+INFO: 06-25 10:00:55: operateElement.py:112 * 43364 Had type 'test1' in inputbox
+INFO: 06-25 10:00:57: operateElement.py:97 * 43364 The element '<appium.webdriver.webelement.WebElement (session="7d03f65e-06e4-4ebd-9460-77576d299fcb", element="ed3cf922-36ba-4bea-beab-11838b7ea705")>' was clicked
+INFO: 06-25 10:00:57: operateElement.py:123 * 43364 获取'<appium.webdriver.webelement.WebElement (session="7d03f65e-06e4-4ebd-9460-77576d299fcb", element="32fd27a3-aa92-48d7-973a-31606578e229")>'的text
+INFO: 06-25 10:00:57: operateElement.py:170 * 43364 APP关闭
+INFO: 06-25 10:01:17: operateElement.py:97 * 43364 The element '<appium.webdriver.webelement.WebElement (session="663f99a2-a0a9-448f-9d25-8dfab4c295cf", element="60793561-68fd-40c1-87e9-213d8ae6726e")>' was clicked
+INFO: 06-25 10:01:18: operateElement.py:97 * 43364 The element '<appium.webdriver.webelement.WebElement (session="663f99a2-a0a9-448f-9d25-8dfab4c295cf", element="9e7ac3f6-3f9e-4e5b-a285-8235f929c620")>' was clicked
+INFO: 06-25 10:01:19: operateElement.py:97 * 43364 The element '<appium.webdriver.webelement.WebElement (session="663f99a2-a0a9-448f-9d25-8dfab4c295cf", element="dba80b04-c513-4b17-9c65-6b80c821fefb")>' was clicked
+INFO: 06-25 10:01:21: operateElement.py:97 * 43364 The element '<appium.webdriver.webelement.WebElement (session="663f99a2-a0a9-448f-9d25-8dfab4c295cf", element="f80c4ff7-f2c2-4695-bc4f-cbafc74ebe15")>' was clicked
+INFO: 06-25 10:01:22: operateElement.py:112 * 43364 Had type '@test1' in inputbox
+INFO: 06-25 10:01:24: operateElement.py:97 * 43364 The element '<appium.webdriver.webelement.WebElement (session="663f99a2-a0a9-448f-9d25-8dfab4c295cf", element="e43b5299-f8b0-441d-9113-667d27a7615a")>' was clicked
+INFO: 06-25 10:01:24: operateElement.py:123 * 43364 获取'<appium.webdriver.webelement.WebElement (session="663f99a2-a0a9-448f-9d25-8dfab4c295cf", element="09f27bab-e631-40c6-a686-bb0ccbf02ef0")>'的text
+INFO: 06-25 10:01:25: operateElement.py:170 * 43364 APP关闭
+INFO: 06-25 10:03:15: operateElement.py:97 * 35100 The element '<appium.webdriver.webelement.WebElement (session="f607f4b5-8436-4093-ae3e-50bbe8d8ef72", element="12d0d82e-7f9a-47b9-ac0f-35f58eb0cd03")>' was clicked
+INFO: 06-25 10:03:16: operateElement.py:97 * 35100 The element '<appium.webdriver.webelement.WebElement (session="f607f4b5-8436-4093-ae3e-50bbe8d8ef72", element="bc84b3d4-1d47-430c-bc42-d9b4f3a16a45")>' was clicked
+INFO: 06-25 10:03:17: operateElement.py:97 * 35100 The element '<appium.webdriver.webelement.WebElement (session="f607f4b5-8436-4093-ae3e-50bbe8d8ef72", element="b698aa43-41f3-4866-bf91-517a81e2b5c4")>' was clicked
+INFO: 06-25 10:03:18: operateElement.py:97 * 35100 The element '<appium.webdriver.webelement.WebElement (session="f607f4b5-8436-4093-ae3e-50bbe8d8ef72", element="27c62990-ec39-4468-85e0-827e98ca1ec4")>' was clicked
+INFO: 06-25 10:11:38: operateElement.py:97 * 22440 The element '<appium.webdriver.webelement.WebElement (session="1d4ec4f9-9c65-402a-8e0a-707bb5808c82", element="656d1a64-a5f8-41f7-b6dc-760b9fc43737")>' was clicked
+INFO: 06-25 10:11:39: operateElement.py:97 * 22440 The element '<appium.webdriver.webelement.WebElement (session="1d4ec4f9-9c65-402a-8e0a-707bb5808c82", element="644bbaf2-9c88-43f3-a3c7-56a5ee879af5")>' was clicked
+INFO: 06-25 10:11:40: operateElement.py:97 * 22440 The element '<appium.webdriver.webelement.WebElement (session="1d4ec4f9-9c65-402a-8e0a-707bb5808c82", element="b57e5e8a-c51f-4d84-a779-53fe19c192ca")>' was clicked
+INFO: 06-25 10:11:41: operateElement.py:97 * 22440 The element '<appium.webdriver.webelement.WebElement (session="1d4ec4f9-9c65-402a-8e0a-707bb5808c82", element="b995675f-7eac-408e-9f17-b7c0333983ea")>' was clicked
+INFO: 06-25 10:11:43: operateElement.py:112 * 22440 Had type 'test1' in inputbox
+INFO: 06-25 10:11:44: operateElement.py:97 * 22440 The element '<appium.webdriver.webelement.WebElement (session="1d4ec4f9-9c65-402a-8e0a-707bb5808c82", element="25159cbd-d450-4dd9-810f-1d4bd73cac38")>' was clicked
+INFO: 06-25 10:11:44: operateElement.py:123 * 22440 获取'<appium.webdriver.webelement.WebElement (session="1d4ec4f9-9c65-402a-8e0a-707bb5808c82", element="f217d8ff-c0de-4709-9654-b0d1eeecbc97")>'的text
+INFO: 06-25 10:11:51: operateElement.py:170 * 22440 APP关闭
+INFO: 06-25 10:13:36: operateElement.py:97 * 21628 The element '<appium.webdriver.webelement.WebElement (session="0830fa02-a6a1-42ec-8743-00d0ee3fd5cd", element="3026468d-d4b1-4ad5-b86d-591a6cc580d3")>' was clicked
+INFO: 06-25 10:13:38: operateElement.py:97 * 21628 The element '<appium.webdriver.webelement.WebElement (session="0830fa02-a6a1-42ec-8743-00d0ee3fd5cd", element="46129592-54f8-4276-b40c-c6d1e0e36e95")>' was clicked
+INFO: 06-25 10:13:39: operateElement.py:97 * 21628 The element '<appium.webdriver.webelement.WebElement (session="0830fa02-a6a1-42ec-8743-00d0ee3fd5cd", element="0daed6fb-56ea-4415-bb0e-c7b27dcd09c9")>' was clicked
+INFO: 06-25 10:13:40: operateElement.py:97 * 21628 The element '<appium.webdriver.webelement.WebElement (session="0830fa02-a6a1-42ec-8743-00d0ee3fd5cd", element="3fccdd7b-8c79-4247-b809-d4b39131e14d")>' was clicked
+INFO: 06-25 10:13:42: operateElement.py:112 * 21628 Had type 'test1' in inputbox
+INFO: 06-25 10:13:43: operateElement.py:97 * 21628 The element '<appium.webdriver.webelement.WebElement (session="0830fa02-a6a1-42ec-8743-00d0ee3fd5cd", element="bbf63d46-ae03-43be-98dd-7585a1c9a544")>' was clicked
+INFO: 06-25 10:13:43: operateElement.py:123 * 21628 获取'<appium.webdriver.webelement.WebElement (session="0830fa02-a6a1-42ec-8743-00d0ee3fd5cd", element="6cf26f26-2a0b-4680-a8e0-4b92d5277eca")>'的text
+INFO: 06-25 10:13:49: operateElement.py:170 * 21628 APP关闭
+INFO: 06-25 10:15:13: operateElement.py:97 * 45308 The element '<appium.webdriver.webelement.WebElement (session="4ecca124-fd4d-4469-b5ed-fad60f731c0f", element="f28a832b-66ed-40d4-8678-4151ec08f868")>' was clicked
+INFO: 06-25 10:15:14: operateElement.py:97 * 45308 The element '<appium.webdriver.webelement.WebElement (session="4ecca124-fd4d-4469-b5ed-fad60f731c0f", element="9ffd8516-d994-4018-8bc0-afbd83e35323")>' was clicked
+INFO: 06-25 10:15:15: operateElement.py:97 * 45308 The element '<appium.webdriver.webelement.WebElement (session="4ecca124-fd4d-4469-b5ed-fad60f731c0f", element="a1da5295-f4c7-4847-8a64-3bd65ac21108")>' was clicked
+INFO: 06-25 10:15:16: operateElement.py:97 * 45308 The element '<appium.webdriver.webelement.WebElement (session="4ecca124-fd4d-4469-b5ed-fad60f731c0f", element="017c9484-7e09-4a1a-a9f2-1977d03e3fc2")>' was clicked
+INFO: 06-25 10:15:18: operateElement.py:112 * 45308 Had type 'test1' in inputbox
+INFO: 06-25 10:15:19: operateElement.py:97 * 45308 The element '<appium.webdriver.webelement.WebElement (session="4ecca124-fd4d-4469-b5ed-fad60f731c0f", element="14d45036-d3d7-4dcd-90cb-f4d4100a4f3f")>' was clicked
+INFO: 06-25 10:15:19: operateElement.py:123 * 45308 获取'<appium.webdriver.webelement.WebElement (session="4ecca124-fd4d-4469-b5ed-fad60f731c0f", element="e87cfd88-ac10-4c93-96ae-ca42e3236de3")>'的text
+INFO: 06-25 10:15:20: operateElement.py:170 * 45308 APP关闭
+INFO: 06-25 10:15:39: operateElement.py:97 * 45308 The element '<appium.webdriver.webelement.WebElement (session="2feb8736-89d8-453a-b42d-c2df7a8f53c6", element="6308d92a-d998-49aa-b04d-f2fa3fefbbfe")>' was clicked
+INFO: 06-25 10:15:40: operateElement.py:97 * 45308 The element '<appium.webdriver.webelement.WebElement (session="2feb8736-89d8-453a-b42d-c2df7a8f53c6", element="d9dc664c-3b5d-4c17-a3c3-92e87b7b6154")>' was clicked
+INFO: 06-25 10:15:42: operateElement.py:97 * 45308 The element '<appium.webdriver.webelement.WebElement (session="2feb8736-89d8-453a-b42d-c2df7a8f53c6", element="c8fa046b-0ca3-4d36-a0f5-978de6c3e099")>' was clicked
+INFO: 06-25 10:15:43: operateElement.py:97 * 45308 The element '<appium.webdriver.webelement.WebElement (session="2feb8736-89d8-453a-b42d-c2df7a8f53c6", element="c1c59628-1032-435a-9a37-267673532417")>' was clicked
+INFO: 06-25 10:15:44: operateElement.py:112 * 45308 Had type '@test1' in inputbox
+INFO: 06-25 10:15:45: operateElement.py:97 * 45308 The element '<appium.webdriver.webelement.WebElement (session="2feb8736-89d8-453a-b42d-c2df7a8f53c6", element="5c93d78f-d8bc-4e22-9dc5-3f625824c256")>' was clicked
+INFO: 06-25 10:15:45: operateElement.py:123 * 45308 获取'<appium.webdriver.webelement.WebElement (session="2feb8736-89d8-453a-b42d-c2df7a8f53c6", element="0fa78866-8852-4aa8-9eda-f06ec8eead51")>'的text
+INFO: 06-25 10:15:46: operateElement.py:170 * 45308 APP关闭
+INFO: 06-25 10:41:46: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="ea286162-19f3-49e7-868e-1ff7300c1bcb", element="0778b5b8-8015-420a-85ec-b83608687ec4")>' was clicked
+INFO: 06-25 10:41:47: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="ea286162-19f3-49e7-868e-1ff7300c1bcb", element="6cb8db30-bbc3-4b59-af51-37654f8fce0a")>' was clicked
+INFO: 06-25 10:41:48: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="ea286162-19f3-49e7-868e-1ff7300c1bcb", element="31065d63-d1dd-4ff6-9695-4ee218440909")>' was clicked
+INFO: 06-25 10:41:49: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="ea286162-19f3-49e7-868e-1ff7300c1bcb", element="cea4f504-6907-402f-8100-0b8d2fe42adc")>' was clicked
+INFO: 06-25 10:41:50: operateElement.py:112 * 38468 Had type '594628' in inputbox
+INFO: 06-25 10:41:52: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="ea286162-19f3-49e7-868e-1ff7300c1bcb", element="cef263f3-1758-4572-ba2e-9e435d6432b9")>' was clicked
+INFO: 06-25 10:41:53: operateElement.py:112 * 38468 Had type '12345' in inputbox
+INFO: 06-25 10:41:59: operateElement.py:170 * 38468 APP关闭
+INFO: 06-25 10:42:18: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="5b5bd709-80b4-4929-9f6c-ca57f9970afc", element="bdd513bd-e35b-4ac2-a537-5a993dbdebad")>' was clicked
+INFO: 06-25 10:42:19: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="5b5bd709-80b4-4929-9f6c-ca57f9970afc", element="6510e93d-491c-48f2-bc16-65de91475aec")>' was clicked
+INFO: 06-25 10:42:21: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="5b5bd709-80b4-4929-9f6c-ca57f9970afc", element="2c93d8b1-0f7a-42eb-b4ab-93f645d35aa4")>' was clicked
+INFO: 06-25 10:42:22: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="5b5bd709-80b4-4929-9f6c-ca57f9970afc", element="ed7f2fb5-b189-4bfb-8b4a-a1dbaf819a06")>' was clicked
+INFO: 06-25 10:42:23: operateElement.py:112 * 38468 Had type '024716' in inputbox
+INFO: 06-25 10:42:24: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="5b5bd709-80b4-4929-9f6c-ca57f9970afc", element="cfd3ff94-6523-440b-8713-d5ce2b15392e")>' was clicked
+INFO: 06-25 10:42:25: operateElement.py:112 * 38468 Had type '123456' in inputbox
+INFO: 06-25 10:42:32: operateElement.py:170 * 38468 APP关闭
+INFO: 06-25 10:42:50: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="8a7ad3d8-9bf0-4b4e-a665-b63d7c49688c", element="a97341ca-c045-495e-a34f-71a26b0c2b1c")>' was clicked
+INFO: 06-25 10:42:52: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="8a7ad3d8-9bf0-4b4e-a665-b63d7c49688c", element="820901ee-816b-480c-b6ac-9d49e60b69af")>' was clicked
+INFO: 06-25 10:42:53: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="8a7ad3d8-9bf0-4b4e-a665-b63d7c49688c", element="14727ec5-238e-43dc-9285-e5abcb10e237")>' was clicked
+INFO: 06-25 10:42:54: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="8a7ad3d8-9bf0-4b4e-a665-b63d7c49688c", element="5e5acd4d-3c20-4417-b351-4972b52ebd83")>' was clicked
+INFO: 06-25 10:42:55: operateElement.py:112 * 38468 Had type '740253' in inputbox
+INFO: 06-25 10:42:57: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="8a7ad3d8-9bf0-4b4e-a665-b63d7c49688c", element="0a1ea526-4e42-45f5-aae5-4a6b97398919")>' was clicked
+INFO: 06-25 10:42:58: operateElement.py:112 * 38468 Had type '123456@xy' in inputbox
+INFO: 06-25 10:43:04: operateElement.py:170 * 38468 APP关闭
+INFO: 06-25 10:43:23: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="4b82bd3d-4ba7-4dac-9c19-f88aaec1f008", element="04ed87ce-2a1d-4022-bceb-decd77a6d105")>' was clicked
+INFO: 06-25 10:43:24: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="4b82bd3d-4ba7-4dac-9c19-f88aaec1f008", element="406e2eaf-1d60-434b-95d1-5ade04cde499")>' was clicked
+INFO: 06-25 10:43:26: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="4b82bd3d-4ba7-4dac-9c19-f88aaec1f008", element="c33ef0cd-7cfd-48f6-942a-cb27ba2bda43")>' was clicked
+INFO: 06-25 10:43:27: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="4b82bd3d-4ba7-4dac-9c19-f88aaec1f008", element="0007029a-47ec-4ebc-ae29-473603e75991")>' was clicked
+INFO: 06-25 10:43:28: operateElement.py:112 * 38468 Had type '172564' in inputbox
+INFO: 06-25 10:43:30: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="4b82bd3d-4ba7-4dac-9c19-f88aaec1f008", element="c6b27316-31f4-4e44-9a8b-524ccc84f663")>' was clicked
+INFO: 06-25 10:43:31: operateElement.py:112 * 38468 Had type '1234567890qwertyuioasdf' in inputbox
+INFO: 06-25 10:43:37: operateElement.py:170 * 38468 APP关闭
+INFO: 06-25 10:43:56: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="bb90c264-deaf-49fa-97b7-c435f48be8ba", element="8848b73e-30bb-4af9-9906-01ab5194aab9")>' was clicked
+INFO: 06-25 10:43:58: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="bb90c264-deaf-49fa-97b7-c435f48be8ba", element="535186dd-d881-4665-95ac-81ac26b8c2ea")>' was clicked
+INFO: 06-25 10:43:59: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="bb90c264-deaf-49fa-97b7-c435f48be8ba", element="2f89aa69-0fad-48ef-82c6-e96c55c18b90")>' was clicked
+INFO: 06-25 10:44:00: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="bb90c264-deaf-49fa-97b7-c435f48be8ba", element="b7ac43db-afb3-4e6a-8c98-0e6fe2c8a508")>' was clicked
+INFO: 06-25 10:44:01: operateElement.py:112 * 38468 Had type '572619' in inputbox
+INFO: 06-25 10:44:03: operateElement.py:97 * 38468 The element '<appium.webdriver.webelement.WebElement (session="bb90c264-deaf-49fa-97b7-c435f48be8ba", element="d5dcbe51-178f-4e29-9192-6c583571ab15")>' was clicked
+INFO: 06-25 10:44:04: operateElement.py:112 * 38468 Had type '123456xy' in inputbox
+INFO: 06-25 10:44:10: operateElement.py:170 * 38468 APP关闭
+INFO: 06-25 11:22:57: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="af1c1cbc-58ff-4d0a-a770-b562b2dfc804", element="c09ac8dc-9528-44da-94e4-c62edac51981")>' was clicked
+INFO: 06-25 11:22:59: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="af1c1cbc-58ff-4d0a-a770-b562b2dfc804", element="d770e804-4896-4cce-982f-eb8968888d22")>' was clicked
+INFO: 06-25 11:23:00: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="af1c1cbc-58ff-4d0a-a770-b562b2dfc804", element="2c6f7b00-cd62-4f4a-b8b5-65f9cfa9f03a")>' was clicked
+INFO: 06-25 11:23:01: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="af1c1cbc-58ff-4d0a-a770-b562b2dfc804", element="b40c8275-22a9-4c24-b2f6-bc7c1ab30484")>' was clicked
+INFO: 06-25 11:23:02: operateElement.py:112 * 45532 Had type 'gggggggggg' in inputbox
+INFO: 06-25 11:23:03: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="af1c1cbc-58ff-4d0a-a770-b562b2dfc804", element="befdf254-1a73-4cec-bb17-2f3bc522d123")>' was clicked
+INFO: 06-25 11:23:04: operateElement.py:112 * 45532 Had type '12345' in inputbox
+INFO: 06-25 11:23:05: operateElement.py:112 * 45532 Had type '123456' in inputbox
+INFO: 06-25 11:23:06: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="af1c1cbc-58ff-4d0a-a770-b562b2dfc804", element="0f3bcced-ca01-4a87-bcaa-ef82f4d4ac4a")>' was clicked
+INFO: 06-25 11:23:12: operateElement.py:123 * 45532 获取'False'的text
+INFO: 06-25 11:23:12: operateElement.py:170 * 45532 APP关闭
+INFO: 06-25 11:23:32: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="3cbc6fd1-feee-4e97-899b-25ee066526d1", element="385c1fee-0713-4425-8aa3-9e0bca36cdab")>' was clicked
+INFO: 06-25 11:23:33: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="3cbc6fd1-feee-4e97-899b-25ee066526d1", element="ec9c4d03-9140-4910-9b9b-a509597acf33")>' was clicked
+INFO: 06-25 11:23:34: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="3cbc6fd1-feee-4e97-899b-25ee066526d1", element="859cadda-c00b-47b3-92b2-659e005f4092")>' was clicked
+INFO: 06-25 11:23:35: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="3cbc6fd1-feee-4e97-899b-25ee066526d1", element="f1b68152-d7a8-4575-8ef4-f6e51472b4ec")>' was clicked
+INFO: 06-25 11:23:37: operateElement.py:112 * 45532 Had type 'gggggggggg' in inputbox
+INFO: 06-25 11:23:38: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="3cbc6fd1-feee-4e97-899b-25ee066526d1", element="13262f7c-9369-40cb-b93a-5996d057e961")>' was clicked
+INFO: 06-25 11:23:38: operateElement.py:112 * 45532 Had type '123456' in inputbox
+INFO: 06-25 11:23:40: operateElement.py:112 * 45532 Had type '123456' in inputbox
+INFO: 06-25 11:23:41: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="3cbc6fd1-feee-4e97-899b-25ee066526d1", element="9d779cd9-5f3e-4c6f-b490-c55c5d1dbab6")>' was clicked
+INFO: 06-25 11:23:46: operateElement.py:123 * 45532 获取'False'的text
+INFO: 06-25 11:23:47: operateElement.py:170 * 45532 APP关闭
+INFO: 06-25 11:24:07: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="cfc31f13-c51c-4e0d-a3ab-ccd2133aaa4a", element="2c695f6a-6455-4862-b1e1-d5fa2af05b28")>' was clicked
+INFO: 06-25 11:24:08: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="cfc31f13-c51c-4e0d-a3ab-ccd2133aaa4a", element="41b9049d-9767-4999-8023-ce99f3c7def8")>' was clicked
+INFO: 06-25 11:24:09: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="cfc31f13-c51c-4e0d-a3ab-ccd2133aaa4a", element="6dcd45f0-124f-42cf-9e20-a68a80db9d67")>' was clicked
+INFO: 06-25 11:24:10: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="cfc31f13-c51c-4e0d-a3ab-ccd2133aaa4a", element="aa003c01-fae8-4b41-8185-52792ab5f821")>' was clicked
+INFO: 06-25 11:24:11: operateElement.py:112 * 45532 Had type 'gggggggggg' in inputbox
+INFO: 06-25 11:24:13: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="cfc31f13-c51c-4e0d-a3ab-ccd2133aaa4a", element="28a63ae5-38c8-487d-acdc-e9f587d26ee6")>' was clicked
+INFO: 06-25 11:24:13: operateElement.py:112 * 45532 Had type '123456@xy' in inputbox
+INFO: 06-25 11:24:14: operateElement.py:112 * 45532 Had type '123456@xy' in inputbox
+INFO: 06-25 11:24:16: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="cfc31f13-c51c-4e0d-a3ab-ccd2133aaa4a", element="7dd2b9bb-c659-46ef-afc1-b86d19beb8fd")>' was clicked
+INFO: 06-25 11:24:21: operateElement.py:123 * 45532 获取'False'的text
+INFO: 06-25 11:24:22: operateElement.py:170 * 45532 APP关闭
+INFO: 06-25 11:24:41: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="c389831d-8bd0-42b2-83c2-a25791e4b5b7", element="11870e62-beef-4a04-9b8e-83738da90734")>' was clicked
+INFO: 06-25 11:24:42: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="c389831d-8bd0-42b2-83c2-a25791e4b5b7", element="050f5152-4858-4c83-8514-f4987c692a02")>' was clicked
+INFO: 06-25 11:24:43: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="c389831d-8bd0-42b2-83c2-a25791e4b5b7", element="158391be-795d-41a4-9ef1-f3e038ff3176")>' was clicked
+INFO: 06-25 11:24:45: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="c389831d-8bd0-42b2-83c2-a25791e4b5b7", element="b9afa8fb-dc47-4744-a1f2-f17682c165f3")>' was clicked
+INFO: 06-25 11:24:46: operateElement.py:112 * 45532 Had type 'gggggggggg' in inputbox
+INFO: 06-25 11:24:47: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="c389831d-8bd0-42b2-83c2-a25791e4b5b7", element="c8e93ab9-ac70-4493-ab44-eec5bf342fac")>' was clicked
+INFO: 06-25 11:24:48: operateElement.py:112 * 45532 Had type '1234567890qwertyuioasdf' in inputbox
+INFO: 06-25 11:24:49: operateElement.py:112 * 45532 Had type '1234567890qwertyuioasdf' in inputbox
+INFO: 06-25 11:24:50: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="c389831d-8bd0-42b2-83c2-a25791e4b5b7", element="a681252c-5710-4ceb-95f6-318df8e8d994")>' was clicked
+INFO: 06-25 11:24:55: operateElement.py:123 * 45532 获取'False'的text
+INFO: 06-25 11:24:56: operateElement.py:170 * 45532 APP关闭
+INFO: 06-25 11:25:16: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="45b6459f-7e86-4c0e-97ec-a5e58f434636", element="8845b55e-09f7-4b0d-b34d-02204590c23a")>' was clicked
+INFO: 06-25 11:25:17: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="45b6459f-7e86-4c0e-97ec-a5e58f434636", element="ee12af55-4e76-4b3c-8d17-be608d9a1d91")>' was clicked
+INFO: 06-25 11:25:18: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="45b6459f-7e86-4c0e-97ec-a5e58f434636", element="6a49fb65-fe1f-4bf6-85fb-6e0d2e466890")>' was clicked
+INFO: 06-25 11:25:19: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="45b6459f-7e86-4c0e-97ec-a5e58f434636", element="4d3c78ed-01c2-4cd1-9e05-314ca95470f5")>' was clicked
+INFO: 06-25 11:25:21: operateElement.py:112 * 45532 Had type 'gggggggggg' in inputbox
+INFO: 06-25 11:25:22: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="45b6459f-7e86-4c0e-97ec-a5e58f434636", element="e94323f7-d45a-4273-b645-2c53eaf7e0fa")>' was clicked
+INFO: 06-25 11:25:23: operateElement.py:112 * 45532 Had type '123456xy' in inputbox
+INFO: 06-25 11:25:24: operateElement.py:112 * 45532 Had type '123456xx' in inputbox
+INFO: 06-25 11:25:25: operateElement.py:97 * 45532 The element '<appium.webdriver.webelement.WebElement (session="45b6459f-7e86-4c0e-97ec-a5e58f434636", element="fb8a86cc-93c9-4865-b7a1-c1e2163db2b5")>' was clicked
+INFO: 06-25 11:25:30: operateElement.py:123 * 45532 获取'False'的text
+INFO: 06-25 11:25:31: operateElement.py:170 * 45532 APP关闭
+INFO: 06-25 11:39:28: operateElement.py:97 * 12028 The element '<appium.webdriver.webelement.WebElement (session="2d9a33f4-11cb-4e26-89b1-49e663ef3581", element="4f6bd277-990b-45ed-a2c2-441a09e00df8")>' was clicked
+INFO: 06-25 11:39:29: operateElement.py:97 * 12028 The element '<appium.webdriver.webelement.WebElement (session="2d9a33f4-11cb-4e26-89b1-49e663ef3581", element="9ca7ed05-b09d-404a-bbb1-68e948097f89")>' was clicked
+INFO: 06-25 11:39:30: operateElement.py:97 * 12028 The element '<appium.webdriver.webelement.WebElement (session="2d9a33f4-11cb-4e26-89b1-49e663ef3581", element="76137dd7-bcfc-4e12-853c-69f3f9601c27")>' was clicked
+INFO: 06-25 11:40:39: operateElement.py:97 * 41736 The element '<appium.webdriver.webelement.WebElement (session="f6cc2ca8-ec40-4134-b32f-bc00ddaf59e3", element="d8630bb1-b37a-45ee-90e4-279f762d59a5")>' was clicked
+INFO: 06-25 11:40:40: operateElement.py:97 * 41736 The element '<appium.webdriver.webelement.WebElement (session="f6cc2ca8-ec40-4134-b32f-bc00ddaf59e3", element="01e3f5aa-0fe6-47f4-ba83-57fe4105b277")>' was clicked
+INFO: 06-25 11:40:41: operateElement.py:97 * 41736 The element '<appium.webdriver.webelement.WebElement (session="f6cc2ca8-ec40-4134-b32f-bc00ddaf59e3", element="11c601d8-6aad-438b-a617-5bd2db323875")>' was clicked
+INFO: 06-25 11:40:42: operateElement.py:97 * 41736 The element '<appium.webdriver.webelement.WebElement (session="f6cc2ca8-ec40-4134-b32f-bc00ddaf59e3", element="93501936-5127-4731-93be-97f2784c4033")>' was clicked
+INFO: 06-25 11:40:44: operateElement.py:112 * 41736 Had type 'test1' in inputbox
+INFO: 06-25 11:40:45: operateElement.py:97 * 41736 The element '<appium.webdriver.webelement.WebElement (session="f6cc2ca8-ec40-4134-b32f-bc00ddaf59e3", element="d9ed0900-e041-4f77-8c99-c6d03e04eeba")>' was clicked
+INFO: 06-25 11:40:45: operateElement.py:123 * 41736 获取'<appium.webdriver.webelement.WebElement (session="f6cc2ca8-ec40-4134-b32f-bc00ddaf59e3", element="3e51523b-8c89-4956-b6b1-84f90d37e5df")>'的text
+INFO: 06-25 11:40:52: operateElement.py:170 * 41736 APP关闭
+INFO: 06-25 11:42:53: operateElement.py:97 * 13656 The element '<appium.webdriver.webelement.WebElement (session="55375f2e-6a64-45df-ad67-82f960da9ca8", element="155919c1-78a3-4528-9fbf-dbbd3ecfc52d")>' was clicked
+INFO: 06-25 11:42:54: operateElement.py:97 * 13656 The element '<appium.webdriver.webelement.WebElement (session="55375f2e-6a64-45df-ad67-82f960da9ca8", element="16f0df52-3bff-47ae-94ad-739f2cb8a404")>' was clicked
+INFO: 06-25 11:42:55: operateElement.py:97 * 13656 The element '<appium.webdriver.webelement.WebElement (session="55375f2e-6a64-45df-ad67-82f960da9ca8", element="38c6acce-7e73-40a6-8a9d-242dc32f5e41")>' was clicked
+INFO: 06-25 11:42:56: operateElement.py:97 * 13656 The element '<appium.webdriver.webelement.WebElement (session="55375f2e-6a64-45df-ad67-82f960da9ca8", element="416cd084-9d5f-46f1-b021-25913a930cc5")>' was clicked
+INFO: 06-25 11:42:58: operateElement.py:112 * 13656 Had type 'gggggggggg' in inputbox
+INFO: 06-25 11:42:59: operateElement.py:97 * 13656 The element '<appium.webdriver.webelement.WebElement (session="55375f2e-6a64-45df-ad67-82f960da9ca8", element="ab414f16-9ca9-476b-8587-631f2695c95d")>' was clicked
+INFO: 06-25 11:43:00: operateElement.py:112 * 13656 Had type '12345' in inputbox
+INFO: 06-25 11:43:01: operateElement.py:112 * 13656 Had type '123456' in inputbox
+INFO: 06-25 11:43:02: operateElement.py:97 * 13656 The element '<appium.webdriver.webelement.WebElement (session="55375f2e-6a64-45df-ad67-82f960da9ca8", element="28a56efe-865e-4cba-9c38-d6b6de4590fd")>' was clicked
+INFO: 06-25 11:43:02: operateElement.py:123 * 13656 获取'<appium.webdriver.webelement.WebElement (session="55375f2e-6a64-45df-ad67-82f960da9ca8", element="a7db424d-19cd-436a-b5d3-a8df645b2cc6")>'的text
+INFO: 06-25 11:43:03: operateElement.py:170 * 13656 APP关闭
+INFO: 06-25 11:46:27: operateElement.py:97 * 24620 The element '<appium.webdriver.webelement.WebElement (session="90f0a9d0-0170-49bf-84d7-eaa05130d540", element="c7d04173-c707-418f-86d6-a60efa2c483a")>' was clicked
+INFO: 06-25 11:46:28: operateElement.py:97 * 24620 The element '<appium.webdriver.webelement.WebElement (session="90f0a9d0-0170-49bf-84d7-eaa05130d540", element="6861a782-61a1-4b0d-8db2-e0d9a3350ba4")>' was clicked
+INFO: 06-25 11:46:29: operateElement.py:97 * 24620 The element '<appium.webdriver.webelement.WebElement (session="90f0a9d0-0170-49bf-84d7-eaa05130d540", element="e6a85e34-fb5e-4b56-9f55-8a446c05135d")>' was clicked
+INFO: 06-25 11:46:30: operateElement.py:97 * 24620 The element '<appium.webdriver.webelement.WebElement (session="90f0a9d0-0170-49bf-84d7-eaa05130d540", element="0d785781-9957-43fd-aab2-6e8b126e063a")>' was clicked
+INFO: 06-25 11:46:32: operateElement.py:112 * 24620 Had type 'gggggggggg' in inputbox
+INFO: 06-25 11:46:33: operateElement.py:97 * 24620 The element '<appium.webdriver.webelement.WebElement (session="90f0a9d0-0170-49bf-84d7-eaa05130d540", element="d9d36f0f-bf16-40e7-86f9-dc81c3a3d628")>' was clicked
+INFO: 06-25 11:46:34: operateElement.py:112 * 24620 Had type '12345' in inputbox
+INFO: 06-25 11:46:35: operateElement.py:112 * 24620 Had type '123456' in inputbox
+INFO: 06-25 11:46:36: operateElement.py:97 * 24620 The element '<appium.webdriver.webelement.WebElement (session="90f0a9d0-0170-49bf-84d7-eaa05130d540", element="ea0fafed-7739-4b0a-b45a-57293f75bda8")>' was clicked
+INFO: 06-25 11:46:36: operateElement.py:123 * 24620 获取'<appium.webdriver.webelement.WebElement (session="90f0a9d0-0170-49bf-84d7-eaa05130d540", element="b7731f4f-51da-4397-ac0a-9fe89165d1e4")>'的text,text为'用户名注册'
+INFO: 06-25 11:46:37: operateElement.py:170 * 24620 APP关闭
+INFO: 06-25 14:21:59: operateElement.py:170 * 41752 APP关闭
+INFO: 06-25 14:22:18: operateElement.py:170 * 41752 APP关闭
+INFO: 06-25 14:22:37: operateElement.py:170 * 41752 APP关闭
+INFO: 06-25 14:26:01: operateElement.py:170 * 45160 APP关闭
+INFO: 06-25 14:26:21: operateElement.py:170 * 45160 APP关闭
+INFO: 06-25 14:26:40: operateElement.py:170 * 45160 APP关闭
+INFO: 06-25 14:26:59: operateElement.py:170 * 45160 APP关闭
+INFO: 06-25 14:27:18: operateElement.py:170 * 45160 APP关闭
+INFO: 06-25 14:27:37: operateElement.py:170 * 45160 APP关闭
+INFO: 06-25 14:27:57: operateElement.py:170 * 45160 APP关闭
+INFO: 06-25 14:28:16: operateElement.py:170 * 45160 APP关闭
+INFO: 06-25 14:28:35: operateElement.py:170 * 45160 APP关闭
+INFO: 06-25 14:28:55: operateElement.py:170 * 45160 APP关闭
+INFO: 06-25 14:29:14: operateElement.py:170 * 45160 APP关闭
+INFO: 06-25 14:29:33: operateElement.py:170 * 45160 APP关闭
+INFO: 06-25 14:29:53: operateElement.py:170 * 45160 APP关闭
+INFO: 06-25 14:30:12: operateElement.py:170 * 45160 APP关闭
+INFO: 06-25 15:51:55: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="aa5ab8ec-d561-48b6-bdcf-c4697f40ac0f", element="50a69166-a925-4e37-9c84-56f5c2aaa5ec")>' was clicked
+INFO: 06-25 15:51:56: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="aa5ab8ec-d561-48b6-bdcf-c4697f40ac0f", element="d5e9b9f8-1d2a-4323-9bfd-09be3ad82da9")>' was clicked
+INFO: 06-25 15:51:57: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="aa5ab8ec-d561-48b6-bdcf-c4697f40ac0f", element="97217189-3ebc-4ebc-9c98-491b4fdecff9")>' was clicked
+INFO: 06-25 15:51:58: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="aa5ab8ec-d561-48b6-bdcf-c4697f40ac0f", element="9c70cf0c-2e24-4d8d-9174-678b17dd2265")>' was clicked
+INFO: 06-25 15:52:00: operateElement.py:111 * 24052 Had type 'test1' in inputbox
+INFO: 06-25 15:52:01: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="aa5ab8ec-d561-48b6-bdcf-c4697f40ac0f", element="ec0b2856-6df9-448c-b2b7-0dfe0c8b7b8f")>' was clicked
+INFO: 06-25 15:52:02: operateElement.py:122 * 24052 获取'<appium.webdriver.webelement.WebElement (session="aa5ab8ec-d561-48b6-bdcf-c4697f40ac0f", element="e43868ad-25db-48f5-adb4-db92ccc3ec53")>'的text,text为'用户名长度为6到20个字符'
+INFO: 06-25 15:52:02: operateElement.py:169 * 24052 APP关闭
+INFO: 06-25 15:52:21: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="1bf0bf27-10e2-45b2-983f-28c53fea056d", element="867845cf-1fdd-45ff-9ba6-1f866ce0d745")>' was clicked
+INFO: 06-25 15:52:23: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="1bf0bf27-10e2-45b2-983f-28c53fea056d", element="3d5ed8ef-3ade-4c86-8996-0ddd71351d64")>' was clicked
+INFO: 06-25 15:52:24: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="1bf0bf27-10e2-45b2-983f-28c53fea056d", element="07b7fc76-e07a-4e6a-9a46-712eab95a402")>' was clicked
+INFO: 06-25 15:52:25: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="1bf0bf27-10e2-45b2-983f-28c53fea056d", element="f8d23f8b-06d3-4e80-b2bb-b62011e26083")>' was clicked
+INFO: 06-25 15:52:27: operateElement.py:111 * 24052 Had type '@test1' in inputbox
+INFO: 06-25 15:52:28: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="1bf0bf27-10e2-45b2-983f-28c53fea056d", element="810ba134-09bb-4772-994b-066ab6cf76a9")>' was clicked
+INFO: 06-25 15:52:28: operateElement.py:122 * 24052 获取'<appium.webdriver.webelement.WebElement (session="1bf0bf27-10e2-45b2-983f-28c53fea056d", element="8362f093-8172-4987-987f-c14dedad4cb5")>'的text,text为'用户名格式错误，请重新输入'
+INFO: 06-25 15:52:29: operateElement.py:169 * 24052 APP关闭
+INFO: 06-25 15:52:48: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="cf6281c1-9362-4751-ab48-e25d8470491b", element="d9ae9b5f-b096-4a80-90c0-65564373fed8")>' was clicked
+INFO: 06-25 15:52:49: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="cf6281c1-9362-4751-ab48-e25d8470491b", element="2c04bc35-05bb-4b5f-bcf3-1cba885c15b9")>' was clicked
+INFO: 06-25 15:52:50: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="cf6281c1-9362-4751-ab48-e25d8470491b", element="70ec5f47-24b2-4728-850d-9f2662645e69")>' was clicked
+INFO: 06-25 15:52:51: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="cf6281c1-9362-4751-ab48-e25d8470491b", element="86bff93f-4833-4591-8ae9-a39dba1623ad")>' was clicked
+INFO: 06-25 15:52:53: operateElement.py:111 * 24052 Had type 'csufaND' in inputbox
+INFO: 06-25 15:52:54: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="cf6281c1-9362-4751-ab48-e25d8470491b", element="dfb0bdfd-e3df-4030-9e74-4cfd959d6365")>' was clicked
+INFO: 06-25 15:52:55: operateElement.py:111 * 24052 Had type '12345' in inputbox
+INFO: 06-25 15:52:56: operateElement.py:111 * 24052 Had type '123456' in inputbox
+INFO: 06-25 15:52:57: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="cf6281c1-9362-4751-ab48-e25d8470491b", element="541b4009-c218-4f80-a61c-81160ad9adf4")>' was clicked
+INFO: 06-25 15:52:57: operateElement.py:122 * 24052 获取'<appium.webdriver.webelement.WebElement (session="cf6281c1-9362-4751-ab48-e25d8470491b", element="d1f9e605-340e-4f55-a736-ef846f2656dd")>'的text,text为'密码长度为6到20个字符'
+INFO: 06-25 15:52:58: operateElement.py:169 * 24052 APP关闭
+INFO: 06-25 15:53:17: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="050d37f6-c68b-433c-a1e4-2d975f2bf191", element="d6f08c2b-07c8-4375-b9f4-e5b9598487f0")>' was clicked
+INFO: 06-25 15:53:18: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="050d37f6-c68b-433c-a1e4-2d975f2bf191", element="3114cfd8-ccaf-4a9a-9ac8-45383f870e71")>' was clicked
+INFO: 06-25 15:53:20: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="050d37f6-c68b-433c-a1e4-2d975f2bf191", element="b4f35518-b42f-4c9f-a916-8b090666258b")>' was clicked
+INFO: 06-25 15:53:21: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="050d37f6-c68b-433c-a1e4-2d975f2bf191", element="4f4ad313-f9ba-445e-9291-28d2b6978f61")>' was clicked
+INFO: 06-25 15:53:22: operateElement.py:111 * 24052 Had type 'nKAR7hp' in inputbox
+INFO: 06-25 15:53:23: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="050d37f6-c68b-433c-a1e4-2d975f2bf191", element="c2836b49-4392-4ae8-aab3-b14aee96b247")>' was clicked
+INFO: 06-25 15:53:24: operateElement.py:111 * 24052 Had type '123456' in inputbox
+INFO: 06-25 15:53:25: operateElement.py:111 * 24052 Had type '123456' in inputbox
+INFO: 06-25 15:53:27: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="050d37f6-c68b-433c-a1e4-2d975f2bf191", element="d39eeae4-11d3-4f07-9d77-c4bd23d6b5e0")>' was clicked
+INFO: 06-25 15:53:27: operateElement.py:122 * 24052 获取'<appium.webdriver.webelement.WebElement (session="050d37f6-c68b-433c-a1e4-2d975f2bf191", element="d6c5c808-309e-4051-bffb-e065a593697b")>'的text,text为'密码格式错误，请重新输入'
+INFO: 06-25 15:53:27: operateElement.py:169 * 24052 APP关闭
+INFO: 06-25 15:53:47: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="5b6eaf1c-5b2b-4bec-8955-41119c1e5161", element="4129b138-ad37-42ae-88d1-30166daf4b77")>' was clicked
+INFO: 06-25 15:53:48: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="5b6eaf1c-5b2b-4bec-8955-41119c1e5161", element="441d552b-fc65-4ed5-a679-82a93cdf4b18")>' was clicked
+INFO: 06-25 15:53:49: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="5b6eaf1c-5b2b-4bec-8955-41119c1e5161", element="8211ae45-dbd4-4962-a318-94acf5de4ab4")>' was clicked
+INFO: 06-25 15:53:50: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="5b6eaf1c-5b2b-4bec-8955-41119c1e5161", element="7c021355-2692-43e8-8c7d-59f167713fcf")>' was clicked
+INFO: 06-25 15:53:52: operateElement.py:111 * 24052 Had type 'Xfk8JCE' in inputbox
+INFO: 06-25 15:53:53: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="5b6eaf1c-5b2b-4bec-8955-41119c1e5161", element="64182d72-bef7-4af0-a37c-d3c73d6bf2b5")>' was clicked
+INFO: 06-25 15:53:54: operateElement.py:111 * 24052 Had type '123456@xy' in inputbox
+INFO: 06-25 15:53:55: operateElement.py:111 * 24052 Had type '123456@xy' in inputbox
+INFO: 06-25 15:53:56: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="5b6eaf1c-5b2b-4bec-8955-41119c1e5161", element="d8bda00f-d14f-4aad-b4d7-67c406f7ad80")>' was clicked
+INFO: 06-25 15:53:56: operateElement.py:122 * 24052 获取'<appium.webdriver.webelement.WebElement (session="5b6eaf1c-5b2b-4bec-8955-41119c1e5161", element="9a84be74-2929-45a1-8d37-a742cd22361f")>'的text,text为'密码格式错误，请重新输入'
+INFO: 06-25 15:53:57: operateElement.py:169 * 24052 APP关闭
+INFO: 06-25 15:54:16: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="ec6434d5-fdf4-49b7-b00f-55f0e44e79e9", element="7edf11bb-3577-46ec-92cc-a21071658002")>' was clicked
+INFO: 06-25 15:54:17: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="ec6434d5-fdf4-49b7-b00f-55f0e44e79e9", element="28752973-f22c-4a9f-84dc-0a519ef8389d")>' was clicked
+INFO: 06-25 15:54:18: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="ec6434d5-fdf4-49b7-b00f-55f0e44e79e9", element="8b8daf70-8da1-44d8-9f66-759970f94ad6")>' was clicked
+INFO: 06-25 15:54:20: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="ec6434d5-fdf4-49b7-b00f-55f0e44e79e9", element="9f018860-d501-45fe-ae50-0414773c8288")>' was clicked
+INFO: 06-25 15:54:21: operateElement.py:111 * 24052 Had type '7unHeYc' in inputbox
+INFO: 06-25 15:54:22: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="ec6434d5-fdf4-49b7-b00f-55f0e44e79e9", element="fc54ac66-da72-4abe-b212-bed45f7c492b")>' was clicked
+INFO: 06-25 15:54:23: operateElement.py:111 * 24052 Had type '1234567890qwertyuioasdf' in inputbox
+INFO: 06-25 15:54:24: operateElement.py:111 * 24052 Had type '1234567890qwertyuioasdf' in inputbox
+INFO: 06-25 15:54:25: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="ec6434d5-fdf4-49b7-b00f-55f0e44e79e9", element="9c54dd99-2d82-48a4-85f4-54bbe4464cdf")>' was clicked
+INFO: 06-25 15:54:25: operateElement.py:122 * 24052 获取'<appium.webdriver.webelement.WebElement (session="ec6434d5-fdf4-49b7-b00f-55f0e44e79e9", element="6e85d86a-a83e-4503-8d70-64c8259277d4")>'的text,text为'密码长度为6到20个字符'
+INFO: 06-25 15:54:26: operateElement.py:169 * 24052 APP关闭
+INFO: 06-25 15:54:46: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="91bc943d-833e-4257-8e23-a53ca14d9a8f", element="d1bb0189-a8a9-48f6-bb36-0bf60a8334bd")>' was clicked
+INFO: 06-25 15:54:47: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="91bc943d-833e-4257-8e23-a53ca14d9a8f", element="e7b88e7c-e5fc-4599-8f75-e502a7545453")>' was clicked
+INFO: 06-25 15:54:48: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="91bc943d-833e-4257-8e23-a53ca14d9a8f", element="62375b3e-bdd1-46d8-8189-879ac39209be")>' was clicked
+INFO: 06-25 15:54:49: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="91bc943d-833e-4257-8e23-a53ca14d9a8f", element="a2952bb7-6c09-4461-b56d-b6dca0de2da3")>' was clicked
+INFO: 06-25 15:54:51: operateElement.py:111 * 24052 Had type 'v5HEAnD' in inputbox
+INFO: 06-25 15:54:52: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="91bc943d-833e-4257-8e23-a53ca14d9a8f", element="3cdf164b-8cfd-4c2b-8b58-02d5e909c939")>' was clicked
+INFO: 06-25 15:54:52: operateElement.py:111 * 24052 Had type '123456xy' in inputbox
+INFO: 06-25 15:54:53: operateElement.py:111 * 24052 Had type '123456xx' in inputbox
+INFO: 06-25 15:54:55: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="91bc943d-833e-4257-8e23-a53ca14d9a8f", element="0dfc0fbc-1203-4e0d-974a-c9f4b89c5d29")>' was clicked
+INFO: 06-25 15:54:55: operateElement.py:122 * 24052 获取'<appium.webdriver.webelement.WebElement (session="91bc943d-833e-4257-8e23-a53ca14d9a8f", element="02f6cc0f-feda-4295-8991-215abf4921d2")>'的text,text为'两次输入的密码不一致'
+INFO: 06-25 15:54:56: operateElement.py:169 * 24052 APP关闭
+INFO: 06-25 15:55:15: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="ebcf0dc9-081b-4402-b09a-e7c0ff0dce11", element="347d480c-a533-42c6-92ee-adccbaa7319a")>' was clicked
+INFO: 06-25 15:55:16: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="ebcf0dc9-081b-4402-b09a-e7c0ff0dce11", element="2ecb0a03-278a-4054-b289-2ffd8525867c")>' was clicked
+INFO: 06-25 15:55:17: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="ebcf0dc9-081b-4402-b09a-e7c0ff0dce11", element="bd45dfb5-9beb-4f98-8722-294a94848a51")>' was clicked
+INFO: 06-25 15:55:18: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="ebcf0dc9-081b-4402-b09a-e7c0ff0dce11", element="d0d4b22c-28c4-4dff-8689-beb5450afc0e")>' was clicked
+INFO: 06-25 15:55:20: operateElement.py:111 * 24052 Had type '5XpP6vi' in inputbox
+INFO: 06-25 15:55:21: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="ebcf0dc9-081b-4402-b09a-e7c0ff0dce11", element="26d93c57-0943-4cd4-97af-b1239590daa7")>' was clicked
+INFO: 06-25 15:55:22: operateElement.py:111 * 24052 Had type '123456xy' in inputbox
+INFO: 06-25 15:55:23: operateElement.py:111 * 24052 Had type '123456xy' in inputbox
+INFO: 06-25 15:55:24: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="ebcf0dc9-081b-4402-b09a-e7c0ff0dce11", element="df2dd7d7-07e0-467a-8345-7da342473240")>' was clicked
+INFO: 06-25 15:55:25: operateElement.py:111 * 24052 Had type '111111111111' in inputbox
+INFO: 06-25 15:55:27: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="ebcf0dc9-081b-4402-b09a-e7c0ff0dce11", element="4483cff7-2f11-4764-bad0-4ede4384bc3f")>' was clicked
+INFO: 06-25 15:55:28: operateElement.py:169 * 24052 APP关闭
+INFO: 06-25 15:55:47: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="010b40fe-d6a4-4ec2-8bc6-80946bff437a", element="83906808-f0c6-4f7e-b98c-b56c8af9745f")>' was clicked
+INFO: 06-25 15:55:48: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="010b40fe-d6a4-4ec2-8bc6-80946bff437a", element="47c80bac-d4a0-4bbe-b3a5-a629be914385")>' was clicked
+INFO: 06-25 15:55:49: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="010b40fe-d6a4-4ec2-8bc6-80946bff437a", element="b0ef474d-dd70-4edf-b513-2100667e0570")>' was clicked
+INFO: 06-25 15:55:50: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="010b40fe-d6a4-4ec2-8bc6-80946bff437a", element="d37db035-8f09-4b77-af7e-d7708e093c78")>' was clicked
+INFO: 06-25 15:55:51: operateElement.py:111 * 24052 Had type 'Ns0yAK5' in inputbox
+INFO: 06-25 15:55:53: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="010b40fe-d6a4-4ec2-8bc6-80946bff437a", element="edaaa6e4-7cd1-4c52-b2a9-149da2ae5af9")>' was clicked
+INFO: 06-25 15:55:53: operateElement.py:111 * 24052 Had type '123456xy' in inputbox
+INFO: 06-25 15:55:54: operateElement.py:111 * 24052 Had type '123456xy' in inputbox
+INFO: 06-25 15:55:56: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="010b40fe-d6a4-4ec2-8bc6-80946bff437a", element="20b9f6f2-707e-4ce9-b42b-be4d4e6ba58c")>' was clicked
+INFO: 06-25 15:55:57: operateElement.py:111 * 24052 Had type '111' in inputbox
+INFO: 06-25 15:55:58: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="010b40fe-d6a4-4ec2-8bc6-80946bff437a", element="278d34d3-ab09-4fd3-a936-4f1471f49fad")>' was clicked
+INFO: 06-25 15:55:59: operateElement.py:169 * 24052 APP关闭
+INFO: 06-25 15:56:19: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="e785fb71-1d9d-4339-8543-8210803b6a16", element="ea49f1e5-c251-4c70-a755-102ecc02fe7c")>' was clicked
+INFO: 06-25 15:56:20: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="e785fb71-1d9d-4339-8543-8210803b6a16", element="af3f3daa-f760-427c-9c6e-fa1085a64246")>' was clicked
+INFO: 06-25 15:56:21: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="e785fb71-1d9d-4339-8543-8210803b6a16", element="f9f3c081-345b-4716-b1c7-e4070e36ab46")>' was clicked
+INFO: 06-25 15:56:22: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="e785fb71-1d9d-4339-8543-8210803b6a16", element="48cd74c4-c5d2-4503-9676-1080919110b0")>' was clicked
+INFO: 06-25 15:56:24: operateElement.py:111 * 24052 Had type 'fANKcDQ' in inputbox
+INFO: 06-25 15:56:25: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="e785fb71-1d9d-4339-8543-8210803b6a16", element="38b4a638-ec5f-4eb5-9a23-d130ff8e5f79")>' was clicked
+INFO: 06-25 15:56:26: operateElement.py:111 * 24052 Had type '123456xy' in inputbox
+INFO: 06-25 15:56:27: operateElement.py:111 * 24052 Had type '123456xy' in inputbox
+INFO: 06-25 15:56:28: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="e785fb71-1d9d-4339-8543-8210803b6a16", element="93cc94df-b6e3-44e5-ad15-19f847758903")>' was clicked
+INFO: 06-25 15:56:29: operateElement.py:111 * 24052 Had type '11111111111' in inputbox
+INFO: 06-25 15:56:31: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="e785fb71-1d9d-4339-8543-8210803b6a16", element="be80ee8b-1045-4124-8783-bf8056c9650c")>' was clicked
+INFO: 06-25 15:56:32: operateElement.py:169 * 24052 APP关闭
+INFO: 06-25 15:56:51: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="6beb127b-e9b4-44fc-a023-5af2fa3999db", element="ac72479c-56af-431b-ac88-4ee897bb11d3")>' was clicked
+INFO: 06-25 15:56:52: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="6beb127b-e9b4-44fc-a023-5af2fa3999db", element="77bc7d24-3125-402c-9178-946ac65ed480")>' was clicked
+INFO: 06-25 15:56:53: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="6beb127b-e9b4-44fc-a023-5af2fa3999db", element="7a0a5377-31ca-4c62-bf78-71aa67119e36")>' was clicked
+INFO: 06-25 15:56:54: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="6beb127b-e9b4-44fc-a023-5af2fa3999db", element="1d4279a3-aab0-4697-8590-ddfff1a710e2")>' was clicked
+INFO: 06-25 15:56:56: operateElement.py:111 * 24052 Had type '2suYQNA' in inputbox
+INFO: 06-25 15:56:57: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="6beb127b-e9b4-44fc-a023-5af2fa3999db", element="124d0571-b63c-4108-8f17-5ad3583ab9a6")>' was clicked
+INFO: 06-25 15:56:58: operateElement.py:111 * 24052 Had type '123456xy' in inputbox
+INFO: 06-25 15:56:59: operateElement.py:111 * 24052 Had type '123456xy' in inputbox
+INFO: 06-25 15:57:00: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="6beb127b-e9b4-44fc-a023-5af2fa3999db", element="8495ea16-7995-42ea-ad7e-8d1767d7f311")>' was clicked
+INFO: 06-25 15:57:01: operateElement.py:111 * 24052 Had type '111@111' in inputbox
+INFO: 06-25 15:57:02: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="6beb127b-e9b4-44fc-a023-5af2fa3999db", element="bde27af9-4be4-4c7f-9c41-dcdbb8aaca2a")>' was clicked
+INFO: 06-25 15:57:03: operateElement.py:169 * 24052 APP关闭
+INFO: 06-25 15:57:23: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="404f2e37-5f1c-4a07-b882-433e8f44f2ac", element="74c15f42-f4d1-46fe-8ac3-1a1d9654f468")>' was clicked
+INFO: 06-25 15:57:24: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="404f2e37-5f1c-4a07-b882-433e8f44f2ac", element="85c4eb9b-4e1e-4ddc-8999-a9476975c178")>' was clicked
+INFO: 06-25 15:57:25: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="404f2e37-5f1c-4a07-b882-433e8f44f2ac", element="47f9b1f0-71c0-4067-bb02-c7a0f48eba72")>' was clicked
+INFO: 06-25 15:57:26: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="404f2e37-5f1c-4a07-b882-433e8f44f2ac", element="3d178b92-3565-45b9-962d-77aec48440d0")>' was clicked
+INFO: 06-25 15:57:27: operateElement.py:111 * 24052 Had type 'Bc31ats' in inputbox
+INFO: 06-25 15:57:29: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="404f2e37-5f1c-4a07-b882-433e8f44f2ac", element="a20624aa-01f5-4342-a29f-9b1e9eeeff6f")>' was clicked
+INFO: 06-25 15:57:29: operateElement.py:111 * 24052 Had type '123456xy' in inputbox
+INFO: 06-25 15:57:30: operateElement.py:111 * 24052 Had type '123456xy' in inputbox
+INFO: 06-25 15:57:32: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="404f2e37-5f1c-4a07-b882-433e8f44f2ac", element="c4ddf3fb-1757-4000-822c-ef870ddd5a67")>' was clicked
+INFO: 06-25 15:57:33: operateElement.py:111 * 24052 Had type '13572483632' in inputbox
+INFO: 06-25 15:57:35: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="404f2e37-5f1c-4a07-b882-433e8f44f2ac", element="19ca12cc-65dd-40a0-894a-b67fdde70d14")>' was clicked
+INFO: 06-25 15:57:36: operateElement.py:111 * 24052 Had type '1111' in inputbox
+INFO: 06-25 15:57:43: operateElement.py:169 * 24052 APP关闭
+INFO: 06-25 15:58:02: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="29324fa8-a9a8-4340-bdd0-9fbd5f26a52f", element="f6ea688a-617b-4dd5-80f1-75ecd8ae2e1b")>' was clicked
+INFO: 06-25 15:58:03: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="29324fa8-a9a8-4340-bdd0-9fbd5f26a52f", element="2bcb01b4-6a34-4b74-bef3-bf7edc9b1444")>' was clicked
+INFO: 06-25 15:58:04: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="29324fa8-a9a8-4340-bdd0-9fbd5f26a52f", element="2a671ead-3a96-447f-87c3-493dd194c712")>' was clicked
+INFO: 06-25 15:58:05: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="29324fa8-a9a8-4340-bdd0-9fbd5f26a52f", element="5d0fc999-db36-4220-b8b1-5f993d093959")>' was clicked
+INFO: 06-25 15:58:07: operateElement.py:111 * 24052 Had type 'HnQi6xz' in inputbox
+INFO: 06-25 15:58:08: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="29324fa8-a9a8-4340-bdd0-9fbd5f26a52f", element="257d0e92-f97e-42ba-be88-e7746bf5e251")>' was clicked
+INFO: 06-25 15:58:09: operateElement.py:111 * 24052 Had type '123456xy' in inputbox
+INFO: 06-25 15:58:10: operateElement.py:111 * 24052 Had type '123456xy' in inputbox
+INFO: 06-25 15:58:11: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="29324fa8-a9a8-4340-bdd0-9fbd5f26a52f", element="b231c727-9697-48f1-8666-681b6601f6a5")>' was clicked
+INFO: 06-25 15:58:12: operateElement.py:111 * 24052 Had type '13572483632' in inputbox
+INFO: 06-25 15:58:14: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="29324fa8-a9a8-4340-bdd0-9fbd5f26a52f", element="8c83035c-660a-45a1-a425-9ba6835c5641")>' was clicked
+INFO: 06-25 15:58:22: operateElement.py:111 * 24052 Had type '1300' in inputbox
+INFO: 06-25 16:03:23: operateElement.py:169 * 24052 APP关闭
+INFO: 06-25 16:03:42: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="2c22351e-edeb-4c79-b310-f8ced9583a90", element="68abf35c-63cf-4e3b-9ee6-946518548f43")>' was clicked
+INFO: 06-25 16:03:43: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="2c22351e-edeb-4c79-b310-f8ced9583a90", element="1dfa5dad-405f-4928-966d-6443d637b6f5")>' was clicked
+INFO: 06-25 16:03:44: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="2c22351e-edeb-4c79-b310-f8ced9583a90", element="d4028f79-f51c-4004-a44b-5d82592d08e3")>' was clicked
+INFO: 06-25 16:03:46: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="2c22351e-edeb-4c79-b310-f8ced9583a90", element="d6e8f5f5-cb79-4743-bdb2-7c70f7470311")>' was clicked
+INFO: 06-25 16:03:47: operateElement.py:111 * 24052 Had type 'wT1kUeC' in inputbox
+INFO: 06-25 16:03:48: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="2c22351e-edeb-4c79-b310-f8ced9583a90", element="597e5a89-0f30-4f7a-a1a9-270d15b0378f")>' was clicked
+INFO: 06-25 16:03:49: operateElement.py:111 * 24052 Had type '123456xy' in inputbox
+INFO: 06-25 16:03:50: operateElement.py:111 * 24052 Had type '123456xy' in inputbox
+INFO: 06-25 16:03:51: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="2c22351e-edeb-4c79-b310-f8ced9583a90", element="40b86e4c-3334-4d5d-bcb9-6244ee03d221")>' was clicked
+INFO: 06-25 16:03:52: operateElement.py:111 * 24052 Had type '13572483632' in inputbox
+INFO: 06-25 16:03:54: operateElement.py:96 * 24052 The element '<appium.webdriver.webelement.WebElement (session="2c22351e-edeb-4c79-b310-f8ced9583a90", element="e8f9e485-ff6b-4493-872d-ec60915f8b3a")>' was clicked
+INFO: 06-25 16:04:00: operateElement.py:169 * 24052 APP关闭
+INFO: 06-25 17:20:53: operateElement.py:96 * 21012 The element '<appium.webdriver.webelement.WebElement (session="b568daa1-f261-44c6-87af-a978e348f1b8", element="8f6020fd-df50-4851-bcc5-85bf7b32fa7f")>' was clicked
+INFO: 06-25 17:20:54: operateElement.py:96 * 21012 The element '<appium.webdriver.webelement.WebElement (session="b568daa1-f261-44c6-87af-a978e348f1b8", element="74940f2a-92cc-4991-9b76-ddd986152724")>' was clicked
+INFO: 06-25 17:20:55: operateElement.py:96 * 21012 The element '<appium.webdriver.webelement.WebElement (session="b568daa1-f261-44c6-87af-a978e348f1b8", element="da413de4-3313-4626-b908-da474696a806")>' was clicked
+INFO: 06-25 17:20:56: operateElement.py:96 * 21012 The element '<appium.webdriver.webelement.WebElement (session="b568daa1-f261-44c6-87af-a978e348f1b8", element="2cdba171-541f-4cd0-b6f2-315507f0479a")>' was clicked
+INFO: 06-25 17:20:57: operateElement.py:111 * 21012 Had type 'lvTQUdY' in inputbox
+INFO: 06-25 17:20:59: operateElement.py:96 * 21012 The element '<appium.webdriver.webelement.WebElement (session="b568daa1-f261-44c6-87af-a978e348f1b8", element="9ebe2987-69a5-4644-8afb-23a9e0b130a7")>' was clicked
+INFO: 06-25 17:20:59: operateElement.py:111 * 21012 Had type '123456xy' in inputbox
+INFO: 06-25 17:21:00: operateElement.py:111 * 21012 Had type '123456xy' in inputbox
+INFO: 06-25 17:21:02: operateElement.py:96 * 21012 The element '<appium.webdriver.webelement.WebElement (session="b568daa1-f261-44c6-87af-a978e348f1b8", element="24caf581-7fb2-44e7-bcf8-1ec5c975ff42")>' was clicked
+INFO: 06-25 17:21:03: operateElement.py:111 * 21012 Had type '111111111111' in inputbox
+INFO: 06-25 17:21:04: operateElement.py:96 * 21012 The element '<appium.webdriver.webelement.WebElement (session="b568daa1-f261-44c6-87af-a978e348f1b8", element="30d86992-e5c5-4060-920d-be690aee094d")>' was clicked
+INFO: 06-25 17:21:05: operateElement.py:169 * 21012 APP关闭
+INFO: 06-25 17:23:26: operateElement.py:96 * 40212 The element '<appium.webdriver.webelement.WebElement (session="1c111cb6-a089-45f2-8a2e-67636e102164", element="09e31876-c350-4142-bc99-ab90dd1d08fb")>' was clicked
+INFO: 06-25 17:23:27: operateElement.py:96 * 40212 The element '<appium.webdriver.webelement.WebElement (session="1c111cb6-a089-45f2-8a2e-67636e102164", element="d09260d1-6fd8-4ecf-8306-44171af18b77")>' was clicked
+INFO: 06-25 17:23:28: operateElement.py:96 * 40212 The element '<appium.webdriver.webelement.WebElement (session="1c111cb6-a089-45f2-8a2e-67636e102164", element="63086456-5973-4930-be7b-c7659eef1e41")>' was clicked
+INFO: 06-25 17:23:29: operateElement.py:96 * 40212 The element '<appium.webdriver.webelement.WebElement (session="1c111cb6-a089-45f2-8a2e-67636e102164", element="b08ed27a-7ff7-4530-add4-85c67db9527b")>' was clicked
+INFO: 06-25 17:23:30: operateElement.py:111 * 40212 Had type 'IYPk29n' in inputbox
+INFO: 06-25 17:23:32: operateElement.py:96 * 40212 The element '<appium.webdriver.webelement.WebElement (session="1c111cb6-a089-45f2-8a2e-67636e102164", element="26caa6b7-4287-4405-912e-2f83e6129dcf")>' was clicked
+INFO: 06-25 17:23:32: operateElement.py:111 * 40212 Had type '123456xy' in inputbox
+INFO: 06-25 17:23:33: operateElement.py:111 * 40212 Had type '123456xy' in inputbox
+INFO: 06-25 17:23:34: operateElement.py:96 * 40212 The element '<appium.webdriver.webelement.WebElement (session="1c111cb6-a089-45f2-8a2e-67636e102164", element="96f4e34f-bbac-47c1-ad48-6d942fb006e8")>' was clicked
+INFO: 06-25 17:23:36: operateElement.py:111 * 40212 Had type '111111111111' in inputbox
+INFO: 06-25 17:23:37: operateElement.py:96 * 40212 The element '<appium.webdriver.webelement.WebElement (session="1c111cb6-a089-45f2-8a2e-67636e102164", element="08b41ff9-bc93-4b56-860d-e5e8ee5343fb")>' was clicked
+INFO: 06-25 17:25:06: operateElement.py:96 * 18144 The element '<appium.webdriver.webelement.WebElement (session="0328f528-2e38-4266-86f5-172d9d6adcae", element="7b62a1da-6604-4843-bd33-2440f2bc35c7")>' was clicked
+INFO: 06-25 17:25:07: operateElement.py:96 * 18144 The element '<appium.webdriver.webelement.WebElement (session="0328f528-2e38-4266-86f5-172d9d6adcae", element="4d6b97b0-abc2-4b91-b63b-a6ef1d5c00f5")>' was clicked
+INFO: 06-25 17:25:08: operateElement.py:96 * 18144 The element '<appium.webdriver.webelement.WebElement (session="0328f528-2e38-4266-86f5-172d9d6adcae", element="9c2ec96c-09a5-4fbf-b826-e02b8749352f")>' was clicked
+INFO: 06-25 17:25:10: operateElement.py:96 * 18144 The element '<appium.webdriver.webelement.WebElement (session="0328f528-2e38-4266-86f5-172d9d6adcae", element="ce994403-0ee6-432b-8530-fc03e04f19f2")>' was clicked
+INFO: 06-25 17:25:11: operateElement.py:111 * 18144 Had type 'VR1LDoZ' in inputbox
+INFO: 06-25 17:25:12: operateElement.py:96 * 18144 The element '<appium.webdriver.webelement.WebElement (session="0328f528-2e38-4266-86f5-172d9d6adcae", element="b757c8b9-4c80-470e-a247-b6aee4f54e02")>' was clicked
+INFO: 06-25 17:25:13: operateElement.py:111 * 18144 Had type '123456xy' in inputbox
+INFO: 06-25 17:25:14: operateElement.py:111 * 18144 Had type '123456xy' in inputbox
+INFO: 06-25 17:25:15: operateElement.py:96 * 18144 The element '<appium.webdriver.webelement.WebElement (session="0328f528-2e38-4266-86f5-172d9d6adcae", element="68f0ee3c-245b-4f7e-acb8-c0dea874ead1")>' was clicked
+INFO: 06-25 17:25:16: operateElement.py:111 * 18144 Had type '111111111111' in inputbox
+INFO: 06-25 17:25:18: operateElement.py:96 * 18144 The element '<appium.webdriver.webelement.WebElement (session="0328f528-2e38-4266-86f5-172d9d6adcae", element="748f7bea-007d-4d02-93b5-d95fb10f9e44")>' was clicked
+INFO: 06-25 17:25:19: operateElement.py:169 * 18144 APP关闭
+INFO: 06-25 17:26:16: operateElement.py:96 * 43912 The element '<appium.webdriver.webelement.WebElement (session="bdae4086-38fc-42cb-bd4b-ab9ce7e37322", element="074ca1f5-e8c2-4b29-a47b-e837c519c224")>' was clicked
+INFO: 06-25 17:26:17: operateElement.py:96 * 43912 The element '<appium.webdriver.webelement.WebElement (session="bdae4086-38fc-42cb-bd4b-ab9ce7e37322", element="cfb1e45c-1051-4b23-be2d-402065d20e1f")>' was clicked
+INFO: 06-25 17:26:18: operateElement.py:96 * 43912 The element '<appium.webdriver.webelement.WebElement (session="bdae4086-38fc-42cb-bd4b-ab9ce7e37322", element="c113c8ba-b6f7-4a98-af2b-b8eb1735ed7c")>' was clicked
+INFO: 06-25 17:26:19: operateElement.py:96 * 43912 The element '<appium.webdriver.webelement.WebElement (session="bdae4086-38fc-42cb-bd4b-ab9ce7e37322", element="b4b8b6ae-ab8a-4e81-9dd8-02beec74e710")>' was clicked
+INFO: 06-25 17:26:21: operateElement.py:111 * 43912 Had type 'QMfqBS6' in inputbox
+INFO: 06-25 17:26:22: operateElement.py:96 * 43912 The element '<appium.webdriver.webelement.WebElement (session="bdae4086-38fc-42cb-bd4b-ab9ce7e37322", element="59cc19c0-e975-41bd-8d65-561d223d67ca")>' was clicked
+INFO: 06-25 17:26:23: operateElement.py:111 * 43912 Had type '123456xy' in inputbox
+INFO: 06-25 17:26:24: operateElement.py:111 * 43912 Had type '123456xy' in inputbox
+INFO: 06-25 17:26:25: operateElement.py:96 * 43912 The element '<appium.webdriver.webelement.WebElement (session="bdae4086-38fc-42cb-bd4b-ab9ce7e37322", element="71152d20-2c84-45da-9eb5-3bfdb88c6c6f")>' was clicked
+INFO: 06-25 17:26:26: operateElement.py:111 * 43912 Had type '111111111111' in inputbox
+INFO: 06-25 17:26:28: operateElement.py:96 * 43912 The element '<appium.webdriver.webelement.WebElement (session="bdae4086-38fc-42cb-bd4b-ab9ce7e37322", element="d2905c69-2fad-40c2-9cdf-720663041222")>' was clicked
+INFO: 06-25 17:26:29: operateElement.py:169 * 43912 APP关闭
+INFO: 06-25 17:28:20: operateElement.py:96 * 39052 The element '<appium.webdriver.webelement.WebElement (session="015dc12f-de3a-4b1d-ae4a-3a646c0c3e0e", element="aa3a036c-cd1c-4c39-946f-38b122bde245")>' was clicked
+INFO: 06-25 17:28:22: operateElement.py:96 * 39052 The element '<appium.webdriver.webelement.WebElement (session="015dc12f-de3a-4b1d-ae4a-3a646c0c3e0e", element="107bf9e2-5a58-4a1e-b5a1-5e19546b6979")>' was clicked
+INFO: 06-25 17:28:23: operateElement.py:96 * 39052 The element '<appium.webdriver.webelement.WebElement (session="015dc12f-de3a-4b1d-ae4a-3a646c0c3e0e", element="f2a95fe1-3a73-473c-a324-1d2645468cd9")>' was clicked
+INFO: 06-25 17:28:24: operateElement.py:96 * 39052 The element '<appium.webdriver.webelement.WebElement (session="015dc12f-de3a-4b1d-ae4a-3a646c0c3e0e", element="bf1e3546-02d6-4006-bfd0-503543b55562")>' was clicked
+INFO: 06-25 17:28:25: operateElement.py:111 * 39052 Had type '2rlPVwJ' in inputbox
+INFO: 06-25 17:28:27: operateElement.py:96 * 39052 The element '<appium.webdriver.webelement.WebElement (session="015dc12f-de3a-4b1d-ae4a-3a646c0c3e0e", element="f4765e22-0b29-472f-b1e6-200ae6805b65")>' was clicked
+INFO: 06-25 17:28:27: operateElement.py:111 * 39052 Had type '123456xy' in inputbox
+INFO: 06-25 17:28:28: operateElement.py:111 * 39052 Had type '123456xy' in inputbox
+INFO: 06-25 17:28:30: operateElement.py:96 * 39052 The element '<appium.webdriver.webelement.WebElement (session="015dc12f-de3a-4b1d-ae4a-3a646c0c3e0e", element="9d3895fb-0754-4246-aff1-a0a286079693")>' was clicked
+INFO: 06-25 17:28:31: operateElement.py:111 * 39052 Had type '111111111111' in inputbox
+INFO: 06-25 17:28:32: operateElement.py:96 * 39052 The element '<appium.webdriver.webelement.WebElement (session="015dc12f-de3a-4b1d-ae4a-3a646c0c3e0e", element="7d3038c6-96e9-4fb2-bce6-b0936c894132")>' was clicked
+INFO: 06-25 17:28:32: operateElement.py:122 * 39052 获取'<appium.webdriver.webelement.WebElement (session="015dc12f-de3a-4b1d-ae4a-3a646c0c3e0e", element="7781a18f-99be-4b72-a503-5285a35d08c8")>'的text,text为'手机号码不合规'
+INFO: 06-25 17:28:33: operateElement.py:169 * 39052 APP关闭
+INFO: 06-25 17:28:52: operateElement.py:96 * 39052 The element '<appium.webdriver.webelement.WebElement (session="306f223b-9cc1-4892-839a-1ee89846022a", element="1dc52f3c-749c-47c7-83ae-ea1b6cfeba97")>' was clicked
+INFO: 06-25 17:28:53: operateElement.py:96 * 39052 The element '<appium.webdriver.webelement.WebElement (session="306f223b-9cc1-4892-839a-1ee89846022a", element="83c950a6-73cc-41f2-a83e-8079e003aa57")>' was clicked
+INFO: 06-25 17:28:55: operateElement.py:96 * 39052 The element '<appium.webdriver.webelement.WebElement (session="306f223b-9cc1-4892-839a-1ee89846022a", element="8aefe3fc-eaa5-444d-a077-a1101a8088d7")>' was clicked
+INFO: 06-25 17:28:56: operateElement.py:96 * 39052 The element '<appium.webdriver.webelement.WebElement (session="306f223b-9cc1-4892-839a-1ee89846022a", element="8bb96ed6-873b-4705-a8d8-91b220b8ed5f")>' was clicked
+INFO: 06-25 17:28:57: operateElement.py:111 * 39052 Had type 'NbISptC' in inputbox
+INFO: 06-25 17:28:59: operateElement.py:96 * 39052 The element '<appium.webdriver.webelement.WebElement (session="306f223b-9cc1-4892-839a-1ee89846022a", element="02975892-dd51-4e5b-8f36-c54764baade0")>' was clicked
+INFO: 06-25 17:28:59: operateElement.py:111 * 39052 Had type '123456xy' in inputbox
+INFO: 06-25 17:29:00: operateElement.py:111 * 39052 Had type '123456xy' in inputbox
+INFO: 06-25 17:29:02: operateElement.py:96 * 39052 The element '<appium.webdriver.webelement.WebElement (session="306f223b-9cc1-4892-839a-1ee89846022a", element="c6d02075-a3d4-40f2-b50d-9f81af2230e0")>' was clicked
+INFO: 06-25 17:29:03: operateElement.py:111 * 39052 Had type '111' in inputbox
+INFO: 06-25 17:29:04: operateElement.py:96 * 39052 The element '<appium.webdriver.webelement.WebElement (session="306f223b-9cc1-4892-839a-1ee89846022a", element="2118479e-41da-45d5-a056-c1ede8f5b4af")>' was clicked
+INFO: 06-25 17:29:04: operateElement.py:122 * 39052 获取'<appium.webdriver.webelement.WebElement (session="306f223b-9cc1-4892-839a-1ee89846022a", element="c0e52f76-b7c2-4d2c-a897-7426e0fa451f")>'的text,text为'手机号码不合规'
+INFO: 06-25 17:29:05: operateElement.py:169 * 39052 APP关闭
+INFO: 06-25 17:29:47: operateElement.py:96 * 21800 The element '<appium.webdriver.webelement.WebElement (session="02656170-5a3c-489d-9cc5-1b84bf12c8d6", element="eb7b6d2c-3e5a-4fc2-afc5-3f7448d08985")>' was clicked
+INFO: 06-25 17:29:48: operateElement.py:96 * 21800 The element '<appium.webdriver.webelement.WebElement (session="02656170-5a3c-489d-9cc5-1b84bf12c8d6", element="dd186219-f3c6-4ac9-9b83-f33e61c2ed3f")>' was clicked
+INFO: 06-25 17:29:49: operateElement.py:96 * 21800 The element '<appium.webdriver.webelement.WebElement (session="02656170-5a3c-489d-9cc5-1b84bf12c8d6", element="59ca86ca-9369-4430-8edd-6065ac86916b")>' was clicked
+INFO: 06-25 17:29:50: operateElement.py:96 * 21800 The element '<appium.webdriver.webelement.WebElement (session="02656170-5a3c-489d-9cc5-1b84bf12c8d6", element="f9405f1a-5e19-4b2c-94e3-a41fe70ec6fa")>' was clicked
+INFO: 06-25 17:29:52: operateElement.py:111 * 21800 Had type '8zsTRV5' in inputbox
+INFO: 06-25 17:29:53: operateElement.py:96 * 21800 The element '<appium.webdriver.webelement.WebElement (session="02656170-5a3c-489d-9cc5-1b84bf12c8d6", element="d584ac44-d00d-489e-adfb-fd16de213fba")>' was clicked
+INFO: 06-25 17:29:53: operateElement.py:111 * 21800 Had type '123456xy' in inputbox
+INFO: 06-25 17:29:54: operateElement.py:111 * 21800 Had type '123456xy' in inputbox
+INFO: 06-25 17:29:56: operateElement.py:96 * 21800 The element '<appium.webdriver.webelement.WebElement (session="02656170-5a3c-489d-9cc5-1b84bf12c8d6", element="22a45fe3-4927-453c-80b9-8d77d98ab5bf")>' was clicked
+INFO: 06-25 17:29:57: operateElement.py:111 * 21800 Had type '13572483632' in inputbox
+INFO: 06-25 17:29:58: operateElement.py:96 * 21800 The element '<appium.webdriver.webelement.WebElement (session="02656170-5a3c-489d-9cc5-1b84bf12c8d6", element="31caebb0-575a-4a08-bbe6-7f30d9e7af6b")>' was clicked
+INFO: 06-25 17:30:01: operateElement.py:111 * 21800 Had type '1111' in inputbox
+INFO: 06-25 17:30:07: operateElement.py:169 * 21800 APP关闭
+INFO: 06-25 17:30:59: operateElement.py:96 * 28440 The element '<appium.webdriver.webelement.WebElement (session="9f8069ea-3b24-4cc1-97dd-fad1ca11cfcd", element="bf50ba45-2307-4ae0-aa87-0595a9db0b8e")>' was clicked
+INFO: 06-25 17:31:00: operateElement.py:96 * 28440 The element '<appium.webdriver.webelement.WebElement (session="9f8069ea-3b24-4cc1-97dd-fad1ca11cfcd", element="ceae898a-74fa-4e49-9baa-6f6ef47d1fbb")>' was clicked
+INFO: 06-25 17:31:01: operateElement.py:96 * 28440 The element '<appium.webdriver.webelement.WebElement (session="9f8069ea-3b24-4cc1-97dd-fad1ca11cfcd", element="bf4335f2-0565-4ed7-9777-fba14d2c7981")>' was clicked
+INFO: 06-25 17:31:02: operateElement.py:96 * 28440 The element '<appium.webdriver.webelement.WebElement (session="9f8069ea-3b24-4cc1-97dd-fad1ca11cfcd", element="6ca0a7fc-ce3c-419a-82bc-21ae2e10cafd")>' was clicked
+INFO: 06-25 17:31:03: operateElement.py:111 * 28440 Had type 'aq46Dbj' in inputbox
+INFO: 06-25 17:31:05: operateElement.py:96 * 28440 The element '<appium.webdriver.webelement.WebElement (session="9f8069ea-3b24-4cc1-97dd-fad1ca11cfcd", element="fee71170-ad74-4d44-9dd6-126bf78c7aaf")>' was clicked
+INFO: 06-25 17:31:05: operateElement.py:111 * 28440 Had type '123456xy' in inputbox
+INFO: 06-25 17:31:06: operateElement.py:169 * 28440 APP关闭
+INFO: 06-25 17:31:43: operateElement.py:96 * 46912 The element '<appium.webdriver.webelement.WebElement (session="97c7949b-a2ba-4614-b038-aa642ee9b4a0", element="0772f62f-fe33-4173-af0b-b640c714a416")>' was clicked
+INFO: 06-25 17:31:45: operateElement.py:96 * 46912 The element '<appium.webdriver.webelement.WebElement (session="97c7949b-a2ba-4614-b038-aa642ee9b4a0", element="9dc174a5-a310-40fd-b5ee-2f20f52e907d")>' was clicked
+INFO: 06-25 17:31:46: operateElement.py:96 * 46912 The element '<appium.webdriver.webelement.WebElement (session="97c7949b-a2ba-4614-b038-aa642ee9b4a0", element="ca4bef5c-b8e3-4408-a26c-7ea8f68bebec")>' was clicked
+INFO: 06-25 17:31:47: operateElement.py:96 * 46912 The element '<appium.webdriver.webelement.WebElement (session="97c7949b-a2ba-4614-b038-aa642ee9b4a0", element="10fa9364-99a9-4328-92a3-637a7e3b1664")>' was clicked
+INFO: 06-25 17:31:48: operateElement.py:111 * 46912 Had type 'P3txTVi' in inputbox
+INFO: 06-25 17:31:50: operateElement.py:96 * 46912 The element '<appium.webdriver.webelement.WebElement (session="97c7949b-a2ba-4614-b038-aa642ee9b4a0", element="9eb84662-c7bf-459c-bafe-6b20a266ead2")>' was clicked
+INFO: 06-25 17:31:50: operateElement.py:111 * 46912 Had type '123456xy' in inputbox
+INFO: 06-25 17:31:51: operateElement.py:111 * 46912 Had type '123456xy' in inputbox
+INFO: 06-25 17:31:53: operateElement.py:96 * 46912 The element '<appium.webdriver.webelement.WebElement (session="97c7949b-a2ba-4614-b038-aa642ee9b4a0", element="b0f070ea-fd8d-4e31-8252-a90cb695c2ad")>' was clicked
+INFO: 06-25 17:31:54: operateElement.py:111 * 46912 Had type '13572483632' in inputbox
+INFO: 06-25 17:31:56: operateElement.py:96 * 46912 The element '<appium.webdriver.webelement.WebElement (session="97c7949b-a2ba-4614-b038-aa642ee9b4a0", element="9b9224f7-f62a-4cdf-bf6b-575102254599")>' was clicked
+INFO: 06-25 17:31:57: operateElement.py:111 * 46912 Had type '1111' in inputbox
+INFO: 06-25 17:32:00: operateElement.py:96 * 46912 The element '<appium.webdriver.webelement.WebElement (session="97c7949b-a2ba-4614-b038-aa642ee9b4a0", element="01888ce5-0b85-436d-9838-5b92eb58cb23")>' was clicked
+INFO: 06-25 17:32:00: operateElement.py:122 * 46912 获取'<appium.webdriver.webelement.WebElement (session="97c7949b-a2ba-4614-b038-aa642ee9b4a0", element="0739870c-3dd3-42fa-b5b8-04e03787bac1")>'的text,text为'验证码错误'
+INFO: 06-25 17:32:01: operateElement.py:169 * 46912 APP关闭
+INFO: 06-25 17:32:20: operateElement.py:96 * 46912 The element '<appium.webdriver.webelement.WebElement (session="88928fc9-622d-4646-8716-84d132d9ca98", element="764b1409-9e15-4a4b-b0fb-f7778df25dfc")>' was clicked
+INFO: 06-25 17:32:21: operateElement.py:96 * 46912 The element '<appium.webdriver.webelement.WebElement (session="88928fc9-622d-4646-8716-84d132d9ca98", element="4355c911-c959-4bab-b8ec-adfb4ed97894")>' was clicked
+INFO: 06-25 17:32:23: operateElement.py:96 * 46912 The element '<appium.webdriver.webelement.WebElement (session="88928fc9-622d-4646-8716-84d132d9ca98", element="0d953faa-057d-4e1c-b194-697f761ed32d")>' was clicked
+INFO: 06-25 17:32:24: operateElement.py:96 * 46912 The element '<appium.webdriver.webelement.WebElement (session="88928fc9-622d-4646-8716-84d132d9ca98", element="3889d27e-a696-4099-9efa-7d334806dfb1")>' was clicked
+INFO: 06-25 17:32:25: operateElement.py:111 * 46912 Had type 'OKTfqg0' in inputbox
+INFO: 06-25 17:32:26: operateElement.py:96 * 46912 The element '<appium.webdriver.webelement.WebElement (session="88928fc9-622d-4646-8716-84d132d9ca98", element="a186908e-0872-47e5-9410-6f941104a3a7")>' was clicked
+INFO: 06-25 17:32:27: operateElement.py:111 * 46912 Had type '123456xy' in inputbox
+INFO: 06-25 17:32:28: operateElement.py:111 * 46912 Had type '123456xy' in inputbox
+INFO: 06-25 17:32:29: operateElement.py:96 * 46912 The element '<appium.webdriver.webelement.WebElement (session="88928fc9-622d-4646-8716-84d132d9ca98", element="530dbda4-e9e1-4f6f-ab3f-cd52fc262a55")>' was clicked
+INFO: 06-25 17:32:30: operateElement.py:111 * 46912 Had type '13572483632' in inputbox
+INFO: 06-25 17:32:32: operateElement.py:96 * 46912 The element '<appium.webdriver.webelement.WebElement (session="88928fc9-622d-4646-8716-84d132d9ca98", element="53e72c03-0f3b-4e92-9bd0-09fc973b07e6")>' was clicked
+INFO: 06-25 17:32:40: operateElement.py:111 * 46912 Had type '7428' in inputbox
+INFO: 06-25 17:36:22: operateElement.py:96 * 10064 The element '<appium.webdriver.webelement.WebElement (session="c23e284a-e67f-4ee5-84e1-c4b4f0a8bf04", element="48b57af6-a3db-48b7-9d28-374cf9df7892")>' was clicked
+INFO: 06-25 17:36:23: operateElement.py:96 * 10064 The element '<appium.webdriver.webelement.WebElement (session="c23e284a-e67f-4ee5-84e1-c4b4f0a8bf04", element="89f23946-c3ed-4938-9e92-4c6f434ed8b1")>' was clicked
+INFO: 06-25 17:36:24: operateElement.py:96 * 10064 The element '<appium.webdriver.webelement.WebElement (session="c23e284a-e67f-4ee5-84e1-c4b4f0a8bf04", element="25ee6b45-6405-492c-84cc-ff9f3a1895e2")>' was clicked
+INFO: 06-25 17:36:25: operateElement.py:96 * 10064 The element '<appium.webdriver.webelement.WebElement (session="c23e284a-e67f-4ee5-84e1-c4b4f0a8bf04", element="e3ef6390-6791-4bf0-bd99-1374acb9a592")>' was clicked
+INFO: 06-25 17:36:26: operateElement.py:111 * 10064 Had type '8VvdJWB' in inputbox
+INFO: 06-25 17:36:28: operateElement.py:96 * 10064 The element '<appium.webdriver.webelement.WebElement (session="c23e284a-e67f-4ee5-84e1-c4b4f0a8bf04", element="b2576fca-47a5-468e-8f65-97c15da5d039")>' was clicked
+INFO: 06-25 17:36:28: operateElement.py:111 * 10064 Had type '123456xy' in inputbox
+INFO: 06-25 17:36:30: operateElement.py:169 * 10064 APP关闭
+INFO: 06-25 17:41:15: operateElement.py:96 * 17684 The element '<appium.webdriver.webelement.WebElement (session="5aa30ad9-d494-4c9e-b962-986689059929", element="1d949b99-46a4-4d75-bf8f-6743eb98a7ad")>' was clicked
+INFO: 06-25 17:41:16: operateElement.py:96 * 17684 The element '<appium.webdriver.webelement.WebElement (session="5aa30ad9-d494-4c9e-b962-986689059929", element="beb48272-348b-40ff-8bc3-b8ca1a29485b")>' was clicked
+INFO: 06-25 17:41:17: operateElement.py:96 * 17684 The element '<appium.webdriver.webelement.WebElement (session="5aa30ad9-d494-4c9e-b962-986689059929", element="3f745947-7a2c-4df4-863b-292c6c20207d")>' was clicked
+INFO: 06-25 17:41:18: operateElement.py:96 * 17684 The element '<appium.webdriver.webelement.WebElement (session="5aa30ad9-d494-4c9e-b962-986689059929", element="487e9fca-4a48-4a04-89fc-d828b1dff072")>' was clicked
+INFO: 06-25 17:41:19: operateElement.py:111 * 17684 Had type 'YTg2kbj' in inputbox
+INFO: 06-25 17:41:21: operateElement.py:96 * 17684 The element '<appium.webdriver.webelement.WebElement (session="5aa30ad9-d494-4c9e-b962-986689059929", element="c348c839-31e3-496c-a2f2-bb823be3e488")>' was clicked
+INFO: 06-25 17:41:21: operateElement.py:111 * 17684 Had type '123456xy' in inputbox
+INFO: 06-25 17:41:22: operateElement.py:111 * 17684 Had type '123456xy' in inputbox
+INFO: 06-25 17:41:24: operateElement.py:96 * 17684 The element '<appium.webdriver.webelement.WebElement (session="5aa30ad9-d494-4c9e-b962-986689059929", element="051b6a30-1ea6-42e5-ae39-8225a1072cb9")>' was clicked
+INFO: 06-25 17:41:25: operateElement.py:111 * 17684 Had type '13572483632' in inputbox
+INFO: 06-25 17:41:27: operateElement.py:96 * 17684 The element '<appium.webdriver.webelement.WebElement (session="5aa30ad9-d494-4c9e-b962-986689059929", element="f768b25c-c6fe-4e22-882c-239b77b2c885")>' was clicked
+INFO: 06-25 17:41:35: operateElement.py:111 * 17684 Had type '8895' in inputbox
+INFO: 06-25 17:41:37: operateElement.py:96 * 17684 The element '<appium.webdriver.webelement.WebElement (session="5aa30ad9-d494-4c9e-b962-986689059929", element="b2c21e38-bb9d-4454-89df-dca3d504bfa5")>' was clicked
+INFO: 06-25 17:41:37: operateElement.py:122 * 17684 获取'<appium.webdriver.webelement.WebElement (session="5aa30ad9-d494-4c9e-b962-986689059929", element="5800f9ae-52e3-41dc-b75d-86703165fb70")>'的text,text为'用户名注册'
+INFO: 06-25 17:41:38: operateElement.py:169 * 17684 APP关闭
+INFO: 06-25 17:42:24: operateElement.py:96 * 10352 The element '<appium.webdriver.webelement.WebElement (session="a4b2cc3f-6c7d-41b4-b85a-5ab8222923d8", element="c22934c3-4621-469e-8956-6e1669ee5485")>' was clicked
+INFO: 06-25 17:42:25: operateElement.py:96 * 10352 The element '<appium.webdriver.webelement.WebElement (session="a4b2cc3f-6c7d-41b4-b85a-5ab8222923d8", element="9bd8ed07-5675-4ed3-8126-6e952eb8c3ae")>' was clicked
+INFO: 06-25 17:42:26: operateElement.py:96 * 10352 The element '<appium.webdriver.webelement.WebElement (session="a4b2cc3f-6c7d-41b4-b85a-5ab8222923d8", element="aad4a25a-2ec8-4b36-8d8b-56427fa21d19")>' was clicked
+INFO: 06-25 17:42:27: operateElement.py:96 * 10352 The element '<appium.webdriver.webelement.WebElement (session="a4b2cc3f-6c7d-41b4-b85a-5ab8222923d8", element="81d08679-9e4c-42f9-848f-58cb79653783")>' was clicked
+INFO: 06-25 17:42:29: operateElement.py:111 * 10352 Had type 'AKNaE0b' in inputbox
+INFO: 06-25 17:42:30: operateElement.py:96 * 10352 The element '<appium.webdriver.webelement.WebElement (session="a4b2cc3f-6c7d-41b4-b85a-5ab8222923d8", element="558becd5-102f-4cea-89d0-a4644ec808ea")>' was clicked
+INFO: 06-25 17:42:31: operateElement.py:111 * 10352 Had type '123456xy' in inputbox
+INFO: 06-25 17:42:32: operateElement.py:111 * 10352 Had type '123456xy' in inputbox
+INFO: 06-25 17:42:33: operateElement.py:96 * 10352 The element '<appium.webdriver.webelement.WebElement (session="a4b2cc3f-6c7d-41b4-b85a-5ab8222923d8", element="4e0198ae-f8d5-474d-b133-5ed288ff9e3e")>' was clicked
+INFO: 06-25 17:42:34: operateElement.py:111 * 10352 Had type '13572483632' in inputbox
+INFO: 06-25 17:42:36: operateElement.py:96 * 10352 The element '<appium.webdriver.webelement.WebElement (session="a4b2cc3f-6c7d-41b4-b85a-5ab8222923d8", element="fc3a9ef3-137e-4d25-bfb1-1708e8a3de1b")>' was clicked
+INFO: 06-25 17:42:47: operateElement.py:169 * 10352 APP关闭
+INFO: 06-25 17:43:21: operateElement.py:96 * 39240 The element '<appium.webdriver.webelement.WebElement (session="d4fd19e5-1d95-4137-af02-598e1958d06d", element="41c09b04-f9eb-4d66-941f-d4ec0f93fcaa")>' was clicked
+INFO: 06-25 17:43:22: operateElement.py:96 * 39240 The element '<appium.webdriver.webelement.WebElement (session="d4fd19e5-1d95-4137-af02-598e1958d06d", element="b5a9f3b2-f6ed-4934-be53-332bd92164a6")>' was clicked
+INFO: 06-25 17:43:23: operateElement.py:96 * 39240 The element '<appium.webdriver.webelement.WebElement (session="d4fd19e5-1d95-4137-af02-598e1958d06d", element="f1667408-71a6-4242-bbf0-924136594788")>' was clicked
+INFO: 06-25 17:43:24: operateElement.py:96 * 39240 The element '<appium.webdriver.webelement.WebElement (session="d4fd19e5-1d95-4137-af02-598e1958d06d", element="c059f39e-d9a7-4510-b62b-99070742a086")>' was clicked
+INFO: 06-25 17:43:26: operateElement.py:111 * 39240 Had type '8ToaEj5' in inputbox
+INFO: 06-25 17:43:27: operateElement.py:96 * 39240 The element '<appium.webdriver.webelement.WebElement (session="d4fd19e5-1d95-4137-af02-598e1958d06d", element="a0c73f2f-f934-4807-af6c-72b5c3a8207d")>' was clicked
+INFO: 06-25 17:43:28: operateElement.py:111 * 39240 Had type '123456xy' in inputbox
+INFO: 06-25 17:43:29: operateElement.py:111 * 39240 Had type '123456xy' in inputbox
+INFO: 06-25 17:43:30: operateElement.py:96 * 39240 The element '<appium.webdriver.webelement.WebElement (session="d4fd19e5-1d95-4137-af02-598e1958d06d", element="768cc3a9-ff41-4a29-9b92-41e65ce8e6d9")>' was clicked
+INFO: 06-25 17:43:31: operateElement.py:111 * 39240 Had type '13572483632' in inputbox
+INFO: 06-25 17:43:33: operateElement.py:96 * 39240 The element '<appium.webdriver.webelement.WebElement (session="d4fd19e5-1d95-4137-af02-598e1958d06d", element="dab7c6b9-d447-4032-befa-811ae1590423")>' was clicked
+INFO: 06-25 17:43:44: operateElement.py:169 * 39240 APP关闭
+INFO: 06-25 19:01:33: operateElement.py:96 * 38684 The element '<appium.webdriver.webelement.WebElement (session="8c0f8e08-3517-4714-92ab-5588bc94e246", element="f5cd7ff2-c68a-44a2-ac64-8ded4e4725a3")>' was clicked
+INFO: 06-25 19:01:34: operateElement.py:96 * 38684 The element '<appium.webdriver.webelement.WebElement (session="8c0f8e08-3517-4714-92ab-5588bc94e246", element="8c1f1081-ed1a-4bf8-840e-69b573efe1ee")>' was clicked
+INFO: 06-25 19:01:35: operateElement.py:111 * 38684 Had type 'auto123' in inputbox
+INFO: 06-25 19:01:36: operateElement.py:111 * 38684 Had type '123456xy' in inputbox
+INFO: 06-25 19:01:37: operateElement.py:96 * 38684 The element '<appium.webdriver.webelement.WebElement (session="8c0f8e08-3517-4714-92ab-5588bc94e246", element="9431d83d-e22f-45f1-b872-d2ed5a0a5684")>' was clicked
+INFO: 06-25 19:01:37: operateElement.py:122 * 38684 获取'<appium.webdriver.webelement.WebElement (session="8c0f8e08-3517-4714-92ab-5588bc94e246", element="81a59481-da66-4194-839d-4106fa1bd711")>'的text,text为'用户不存在'
+INFO: 06-25 19:01:38: operateElement.py:169 * 38684 APP关闭
+INFO: 06-25 19:01:58: operateElement.py:96 * 38684 The element '<appium.webdriver.webelement.WebElement (session="da6b7542-b1bd-4a5d-986c-aa61fca0f312", element="27cc72ee-e627-4803-b731-784a6cc02003")>' was clicked
+INFO: 06-25 19:01:59: operateElement.py:96 * 38684 The element '<appium.webdriver.webelement.WebElement (session="da6b7542-b1bd-4a5d-986c-aa61fca0f312", element="90ea5720-1972-47c7-89b2-cfbb056b8778")>' was clicked
+INFO: 06-25 19:02:00: operateElement.py:111 * 38684 Had type '' in inputbox
+INFO: 06-25 19:02:01: operateElement.py:111 * 38684 Had type '123456xy' in inputbox
+INFO: 06-25 19:02:03: operateElement.py:96 * 38684 The element '<appium.webdriver.webelement.WebElement (session="da6b7542-b1bd-4a5d-986c-aa61fca0f312", element="0570ff87-510b-4af6-af16-feb98d68a791")>' was clicked
+INFO: 06-25 19:02:03: operateElement.py:122 * 38684 获取'<appium.webdriver.webelement.WebElement (session="da6b7542-b1bd-4a5d-986c-aa61fca0f312", element="4ffeffb8-76b0-408f-ab7e-f8fc362e7231")>'的text,text为'手机号/用户名不能为空'
+INFO: 06-25 19:02:04: operateElement.py:169 * 38684 APP关闭
+INFO: 06-25 19:02:23: operateElement.py:96 * 38684 The element '<appium.webdriver.webelement.WebElement (session="89426c4d-ec4c-451d-8454-f8755978af7c", element="8368af24-704f-4283-8de3-1633982c56b5")>' was clicked
+INFO: 06-25 19:02:24: operateElement.py:96 * 38684 The element '<appium.webdriver.webelement.WebElement (session="89426c4d-ec4c-451d-8454-f8755978af7c", element="b27a2a33-b8f8-4760-be9f-df238e995617")>' was clicked
+INFO: 06-25 19:02:25: operateElement.py:111 * 38684 Had type 'test001' in inputbox
+INFO: 06-25 19:02:26: operateElement.py:111 * 38684 Had type '123456xy' in inputbox
+INFO: 06-25 19:02:28: operateElement.py:96 * 38684 The element '<appium.webdriver.webelement.WebElement (session="89426c4d-ec4c-451d-8454-f8755978af7c", element="72270dea-3020-4f59-b245-cae9afd606f0")>' was clicked
+INFO: 06-25 19:02:28: operateElement.py:122 * 38684 获取'<appium.webdriver.webelement.WebElement (session="89426c4d-ec4c-451d-8454-f8755978af7c", element="052aad87-ea9d-43dc-8302-f7092b5c7e5a")>'的text,text为'咨询记录'
+INFO: 06-25 19:02:29: operateElement.py:169 * 38684 APP关闭
+INFO: 06-25 20:04:13: operateElement.py:96 * 25368 The element '<appium.webdriver.webelement.WebElement (session="33d85a86-388e-4cec-96ce-c1d0418f6134", element="6b73bb85-a66f-48b2-8df5-45bf29d23ce8")>' was clicked
+INFO: 06-25 20:04:14: operateElement.py:96 * 25368 The element '<appium.webdriver.webelement.WebElement (session="33d85a86-388e-4cec-96ce-c1d0418f6134", element="b2a198a2-767a-4ee3-8c5d-0912b6ff18b8")>' was clicked
+INFO: 06-25 20:04:15: operateElement.py:111 * 25368 Had type 'auto123' in inputbox
+INFO: 06-25 20:04:16: operateElement.py:111 * 25368 Had type '123456xy' in inputbox
+INFO: 06-25 20:04:17: operateElement.py:96 * 25368 The element '<appium.webdriver.webelement.WebElement (session="33d85a86-388e-4cec-96ce-c1d0418f6134", element="d10caaca-a8d4-4941-bcea-a946612d7ab8")>' was clicked
+INFO: 06-25 20:06:01: operateElement.py:96 * 23764 The element '<appium.webdriver.webelement.WebElement (session="5b16f8de-3cf5-4037-9fc5-20f4f1d7723d", element="7e727e8f-2b56-45f5-b317-429aa042eead")>' was clicked
+INFO: 06-25 20:06:03: operateElement.py:96 * 23764 The element '<appium.webdriver.webelement.WebElement (session="5b16f8de-3cf5-4037-9fc5-20f4f1d7723d", element="c750926f-fc54-424d-a801-8e6055996bc2")>' was clicked
+INFO: 06-25 20:06:04: operateElement.py:111 * 23764 Had type 'auto123' in inputbox
+INFO: 06-25 20:06:05: operateElement.py:111 * 23764 Had type '123456xy' in inputbox
+INFO: 06-25 20:06:06: operateElement.py:96 * 23764 The element '<appium.webdriver.webelement.WebElement (session="5b16f8de-3cf5-4037-9fc5-20f4f1d7723d", element="90686067-f8aa-43f5-ad11-7ebddaf46933")>' was clicked
+INFO: 06-25 20:06:06: operateElement.py:122 * 23764 获取'<appium.webdriver.webelement.WebElement (session="5b16f8de-3cf5-4037-9fc5-20f4f1d7723d", element="fcb00a50-7de2-4189-b47b-79e454b35cdb")>'的text,text为'用户不存在'
+INFO: 06-25 20:06:07: operateElement.py:169 * 23764 APP关闭
+INFO: 06-25 20:06:26: operateElement.py:96 * 23764 The element '<appium.webdriver.webelement.WebElement (session="752529e1-d0e2-4ab8-aa04-e9944ad2cd26", element="c3dad370-0602-4794-b54e-7c26fd9103c4")>' was clicked
+INFO: 06-25 20:06:28: operateElement.py:96 * 23764 The element '<appium.webdriver.webelement.WebElement (session="752529e1-d0e2-4ab8-aa04-e9944ad2cd26", element="4df89ffb-e314-446f-b038-ca4f65152a2d")>' was clicked
+INFO: 06-25 20:06:29: operateElement.py:111 * 23764 Had type '' in inputbox
+INFO: 06-25 20:06:30: operateElement.py:111 * 23764 Had type '123456xy' in inputbox
+INFO: 06-25 20:06:31: operateElement.py:96 * 23764 The element '<appium.webdriver.webelement.WebElement (session="752529e1-d0e2-4ab8-aa04-e9944ad2cd26", element="dff9a4d8-b1d2-4ca6-953c-16fa8ceaaf5c")>' was clicked
+INFO: 06-25 20:06:31: operateElement.py:122 * 23764 获取'<appium.webdriver.webelement.WebElement (session="752529e1-d0e2-4ab8-aa04-e9944ad2cd26", element="b932d4d9-b9f7-43c1-9e9a-0d7952a08a36")>'的text,text为'手机号/用户名不能为空'
+INFO: 06-25 20:06:32: operateElement.py:169 * 23764 APP关闭
+INFO: 06-25 20:06:51: operateElement.py:96 * 23764 The element '<appium.webdriver.webelement.WebElement (session="905c6a9d-68b6-4e7e-88d9-d5620d94ee3c", element="d870e139-9a30-4aab-ba3e-bf98a458d0d5")>' was clicked
+INFO: 06-25 20:06:52: operateElement.py:96 * 23764 The element '<appium.webdriver.webelement.WebElement (session="905c6a9d-68b6-4e7e-88d9-d5620d94ee3c", element="47ecd3d9-8366-457f-bd9f-810e80d9d98b")>' was clicked
+INFO: 06-25 20:06:54: operateElement.py:111 * 23764 Had type 'test001' in inputbox
+INFO: 06-25 20:06:55: operateElement.py:111 * 23764 Had type '123456xx' in inputbox
+INFO: 06-25 20:06:56: operateElement.py:96 * 23764 The element '<appium.webdriver.webelement.WebElement (session="905c6a9d-68b6-4e7e-88d9-d5620d94ee3c", element="73a915da-8198-4b61-832c-afecaf38b744")>' was clicked
+INFO: 06-25 20:06:56: operateElement.py:122 * 23764 获取'<appium.webdriver.webelement.WebElement (session="905c6a9d-68b6-4e7e-88d9-d5620d94ee3c", element="627ea4ee-9e13-4faf-9945-63631f4ca4f2")>'的text,text为'密码不正确'
+INFO: 06-25 20:06:57: operateElement.py:169 * 23764 APP关闭
+INFO: 06-25 20:14:04: operateElement.py:96 * 35152 The element '<appium.webdriver.webelement.WebElement (session="409ccfa3-7558-4d30-8664-55942d6b3cb8", element="9ce8979c-86a2-48e2-9a8f-448106889859")>' was clicked
+INFO: 06-25 20:14:05: operateElement.py:96 * 46552 The element '<appium.webdriver.webelement.WebElement (session="992357b9-6a19-473d-a7c3-ca9613ec5525", element="927bee80-1955-417c-b2e0-1c6ceb52cb09")>' was clicked
+INFO: 06-25 20:14:07: operateElement.py:96 * 35152 The element '<appium.webdriver.webelement.WebElement (session="409ccfa3-7558-4d30-8664-55942d6b3cb8", element="e539c4bf-111f-4338-bdd7-81257cf383c3")>' was clicked
+INFO: 06-25 20:14:08: operateElement.py:111 * 35152 Had type 'auto123' in inputbox
+INFO: 06-25 20:14:09: operateElement.py:111 * 35152 Had type '123456xy' in inputbox
+INFO: 06-25 20:14:11: operateElement.py:96 * 35152 The element '<appium.webdriver.webelement.WebElement (session="409ccfa3-7558-4d30-8664-55942d6b3cb8", element="7549e6c6-5bb4-47a2-8c76-e882b043c51e")>' was clicked
+INFO: 06-25 20:14:11: operateElement.py:169 * 46552 APP关闭
+INFO: 06-25 20:14:31: operateElement.py:96 * 46552 The element '<appium.webdriver.webelement.WebElement (session="a981832e-d521-4bf2-a72a-c08346c6de4a", element="c13346eb-abb6-4739-9813-895a8402ad05")>' was clicked
+INFO: 06-25 20:14:33: operateElement.py:96 * 46552 The element '<appium.webdriver.webelement.WebElement (session="a981832e-d521-4bf2-a72a-c08346c6de4a", element="35beda00-f68b-43bd-b19b-c69a72c52cd4")>' was clicked
+INFO: 06-25 20:14:35: operateElement.py:111 * 46552 Had type 'test001' in inputbox
+INFO: 06-25 20:14:37: operateElement.py:111 * 46552 Had type '123456xx' in inputbox
+INFO: 06-25 20:14:38: operateElement.py:96 * 46552 The element '<appium.webdriver.webelement.WebElement (session="a981832e-d521-4bf2-a72a-c08346c6de4a", element="7fc2d8b4-dbf9-4dbe-955a-37a8105a0551")>' was clicked
+INFO: 06-25 20:16:02: operateElement.py:96 * 43228 The element '<appium.webdriver.webelement.WebElement (session="dec31100-28e1-48be-8fea-a133c80d68a7", element="9e9c1e34-5f6a-4b7e-9b23-ef385a1bb350")>' was clicked
+INFO: 06-25 20:16:03: operateElement.py:96 * 43228 The element '<appium.webdriver.webelement.WebElement (session="dec31100-28e1-48be-8fea-a133c80d68a7", element="76783e32-b205-436b-8780-21c3e3d1db1c")>' was clicked
+INFO: 06-25 20:16:04: operateElement.py:111 * 43228 Had type 'auto123' in inputbox
+INFO: 06-25 20:16:05: operateElement.py:111 * 43228 Had type '123456xy' in inputbox
+INFO: 06-25 20:16:06: operateElement.py:96 * 43228 The element '<appium.webdriver.webelement.WebElement (session="dec31100-28e1-48be-8fea-a133c80d68a7", element="5a439762-2eb8-492a-a047-e27f4c863945")>' was clicked
+INFO: 06-25 20:16:06: operateElement.py:122 * 43228 获取'<appium.webdriver.webelement.WebElement (session="dec31100-28e1-48be-8fea-a133c80d68a7", element="1d10cf68-0309-42c5-a7e9-c05e44f70776")>'的text,text为'用户不存在'
+INFO: 06-25 20:16:07: operateElement.py:169 * 43228 APP关闭
+INFO: 06-25 20:16:26: operateElement.py:96 * 43228 The element '<appium.webdriver.webelement.WebElement (session="75755783-9f37-4f5f-b456-a687057e834a", element="b007951d-94d5-44a5-9659-6ad3022635e6")>' was clicked
+INFO: 06-25 20:16:27: operateElement.py:96 * 43228 The element '<appium.webdriver.webelement.WebElement (session="75755783-9f37-4f5f-b456-a687057e834a", element="1c1d5c5c-94a4-4414-bd3a-1e118fe6c5bc")>' was clicked
+INFO: 06-25 20:16:29: operateElement.py:111 * 43228 Had type '' in inputbox
+INFO: 06-25 20:16:30: operateElement.py:111 * 43228 Had type '123456xy' in inputbox
+INFO: 06-25 20:16:31: operateElement.py:96 * 43228 The element '<appium.webdriver.webelement.WebElement (session="75755783-9f37-4f5f-b456-a687057e834a", element="743f6e0b-b571-4427-a447-af512fbae19a")>' was clicked
+INFO: 06-25 20:16:31: operateElement.py:122 * 43228 获取'<appium.webdriver.webelement.WebElement (session="75755783-9f37-4f5f-b456-a687057e834a", element="75d4502b-b254-42b7-b223-c1adcb223fdd")>'的text,text为'手机号/用户名不能为空'
+INFO: 06-25 20:16:32: operateElement.py:169 * 43228 APP关闭
+INFO: 06-25 20:16:51: operateElement.py:96 * 43228 The element '<appium.webdriver.webelement.WebElement (session="2ac20a24-8679-493a-a212-cc9a3ca9eeba", element="4f8f8336-004d-4d3e-b4c2-54420ebe02f0")>' was clicked
+INFO: 06-25 20:16:52: operateElement.py:96 * 43228 The element '<appium.webdriver.webelement.WebElement (session="2ac20a24-8679-493a-a212-cc9a3ca9eeba", element="b5acd632-a523-4bef-a9c6-e02402dba4b2")>' was clicked
+INFO: 06-25 20:16:53: operateElement.py:111 * 43228 Had type 'test001' in inputbox
+INFO: 06-25 20:16:54: operateElement.py:111 * 43228 Had type '123456xx' in inputbox
+INFO: 06-25 20:16:56: operateElement.py:96 * 43228 The element '<appium.webdriver.webelement.WebElement (session="2ac20a24-8679-493a-a212-cc9a3ca9eeba", element="7cdbed7e-2be6-4e17-b424-5282bf616aab")>' was clicked
+INFO: 06-25 20:16:56: operateElement.py:122 * 43228 获取'<appium.webdriver.webelement.WebElement (session="2ac20a24-8679-493a-a212-cc9a3ca9eeba", element="d37112fd-cd56-40be-8588-0ca17dd56f50")>'的text,text为'密码不正确'
+INFO: 06-25 20:16:57: operateElement.py:169 * 43228 APP关闭
+INFO: 06-25 20:17:16: operateElement.py:96 * 43228 The element '<appium.webdriver.webelement.WebElement (session="36fe3b77-a869-4240-8db2-84884724e0f0", element="9586215a-d64c-4e77-ae1e-424fdc26cbf3")>' was clicked
+INFO: 06-25 20:17:17: operateElement.py:96 * 43228 The element '<appium.webdriver.webelement.WebElement (session="36fe3b77-a869-4240-8db2-84884724e0f0", element="6973a2a4-8b92-4d5c-a7e0-dae885ca9162")>' was clicked
+INFO: 06-25 20:17:18: operateElement.py:111 * 43228 Had type 'test001' in inputbox
+INFO: 06-25 20:17:19: operateElement.py:111 * 43228 Had type '123456xy' in inputbox
+INFO: 06-25 20:17:21: operateElement.py:96 * 43228 The element '<appium.webdriver.webelement.WebElement (session="36fe3b77-a869-4240-8db2-84884724e0f0", element="272a66f6-43eb-4a07-b40b-68a6b624a2be")>' was clicked
+INFO: 06-25 20:17:21: operateElement.py:122 * 43228 获取'<appium.webdriver.webelement.WebElement (session="36fe3b77-a869-4240-8db2-84884724e0f0", element="b056337e-fe68-43f7-8829-e0585f267301")>'的text,text为'咨询记录'
+INFO: 06-25 20:17:22: operateElement.py:169 * 43228 APP关闭
+INFO: 06-25 20:18:55: operateElement.py:96 * 12784 The element '<appium.webdriver.webelement.WebElement (session="1004c160-7e09-40a5-9311-1364ec08bbf5", element="17900876-abef-4bc8-8fe0-c71023cb6751")>' was clicked
+INFO: 06-25 20:18:56: operateElement.py:96 * 12784 The element '<appium.webdriver.webelement.WebElement (session="1004c160-7e09-40a5-9311-1364ec08bbf5", element="3178a5f1-32de-4f77-8a95-4b692022c810")>' was clicked
+INFO: 06-25 20:18:57: operateElement.py:111 * 12784 Had type 'auto123' in inputbox
+INFO: 06-25 20:18:58: operateElement.py:111 * 12784 Had type '123456xy' in inputbox
+INFO: 06-25 20:19:00: operateElement.py:96 * 12784 The element '<appium.webdriver.webelement.WebElement (session="1004c160-7e09-40a5-9311-1364ec08bbf5", element="48300141-ea02-483f-b00b-c1e6e04d6d84")>' was clicked
+INFO: 06-25 20:19:00: operateElement.py:122 * 12784 获取'<appium.webdriver.webelement.WebElement (session="1004c160-7e09-40a5-9311-1364ec08bbf5", element="363985bb-a51d-4298-aa6d-18a84276c887")>'的text,text为'用户不存在'
+INFO: 06-25 20:19:01: operateElement.py:169 * 12784 APP关闭
+INFO: 06-25 20:36:28: operateElement.py:96 * 33532 The element '<appium.webdriver.webelement.WebElement (session="c5bd09a1-12f3-4be2-84d5-6861908f9ebe", element="7d7ccaa2-ca7e-4535-87f0-579868ebdc49")>' was clicked
+INFO: 06-25 20:36:29: operateElement.py:96 * 33532 The element '<appium.webdriver.webelement.WebElement (session="c5bd09a1-12f3-4be2-84d5-6861908f9ebe", element="ccd9bb08-d9bc-4f7a-b463-aa6a5a1473e1")>' was clicked
+INFO: 06-25 20:36:30: operateElement.py:111 * 33532 Had type 'lxx345' in inputbox
+INFO: 06-25 20:36:31: operateElement.py:111 * 33532 Had type '123456xy' in inputbox
+INFO: 06-25 20:36:33: operateElement.py:96 * 33532 The element '<appium.webdriver.webelement.WebElement (session="c5bd09a1-12f3-4be2-84d5-6861908f9ebe", element="89e6746b-6c76-46c6-bba0-2c9e2f72564b")>' was clicked
+INFO: 06-25 20:37:08: operateElement.py:96 * 47736 The element '<appium.webdriver.webelement.WebElement (session="3b07ebc8-e862-4386-a528-837834137961", element="0caf7017-f3ef-47df-bf33-586d0ab70375")>' was clicked
+INFO: 06-25 20:37:09: operateElement.py:96 * 47736 The element '<appium.webdriver.webelement.WebElement (session="3b07ebc8-e862-4386-a528-837834137961", element="e8d8ca76-5fb1-498b-8ce0-3ec9c726092d")>' was clicked
+INFO: 06-25 20:37:10: operateElement.py:111 * 47736 Had type 'lxx345' in inputbox
+INFO: 06-25 20:37:11: operateElement.py:111 * 47736 Had type '123456xy' in inputbox
+INFO: 06-25 20:37:13: operateElement.py:96 * 47736 The element '<appium.webdriver.webelement.WebElement (session="3b07ebc8-e862-4386-a528-837834137961", element="6a01f466-cded-4936-8175-1d1963d5b315")>' was clicked
+INFO: 06-25 20:38:50: operateElement.py:96 * 38280 The element '<appium.webdriver.webelement.WebElement (session="a79bd84e-a42a-44e2-bdfa-ff1298c50050", element="a1093b35-4d01-40fb-8ce1-469e284a5f94")>' was clicked
+INFO: 06-25 20:38:51: operateElement.py:96 * 38280 The element '<appium.webdriver.webelement.WebElement (session="a79bd84e-a42a-44e2-bdfa-ff1298c50050", element="af7e7ede-759d-4277-9f5a-1b8ff518d84b")>' was clicked
+INFO: 06-25 20:38:52: operateElement.py:111 * 38280 Had type 'lxx345' in inputbox
+INFO: 06-25 20:38:53: operateElement.py:111 * 38280 Had type '123456xy' in inputbox
+INFO: 06-25 20:38:55: operateElement.py:96 * 38280 The element '<appium.webdriver.webelement.WebElement (session="a79bd84e-a42a-44e2-bdfa-ff1298c50050", element="a505b18a-55ab-46d7-94c2-2611c6d48e2a")>' was clicked
